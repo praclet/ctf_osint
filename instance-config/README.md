@@ -38,16 +38,16 @@ make docker-run
 Open your web browser and visit `http://localhost:8000`. Follow the step to create an account with random values. These values will be overwritten when you will import the backup file. Once setup process is complete, you will get this page:
 
 <p align="center">
-  <img src="assets/tutorial_00.png" alt="CTFd homepage" />
+  <img src="assets/tutorial_00.png" alt="CTFd homepage" width="600" />
 </p>
 
 Click on `Admin Panel`.
 
-<p align="center">
-  <img src="assets/tutorial_00.png" alt="CTFd import" />
-</p>
-
 Then click on `Config` > `Backup` > `Import`. Choose the latest backup file from the `backup` directory.
+
+<p align="center">
+  <img src="assets/tutorial_01.png" alt="CTFd import" width="600" />
+</p>
 
 The login is (case-sensitive): `Admin`
 And pass is: `youshallnotpass`
@@ -55,7 +55,7 @@ And pass is: `youshallnotpass`
 Make any changes you want to. Save them by exporting a backup.
 
 <p align="center">
-  <img src="assets/tutorial_02.png" alt="CTFd export" />
+  <img src="assets/tutorial_02.png" alt="CTFd export" width="600" />
 </p>
 
 Put this zip file in the `backup` directory:
