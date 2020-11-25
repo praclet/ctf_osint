@@ -3,9 +3,6 @@ IMAGE := ctfd/ctfd
 DOCKER_NAME := ctfd-bootcamp
 CTFD_PATH := CTFd
 
-install:
-	git clone https://github.com/CTFd/CTFd.git
-
 docker-run:
 	cd $(CTFD_PATH)
 	docker run -p 8000:8000 -it --name $(DOCKER_NAME) $(IMAGE)

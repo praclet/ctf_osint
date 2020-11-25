@@ -25,12 +25,7 @@
 
 You will do the following steps only the first time.
 
-Clone the CTFd repository:
-```console
-make install
-```
-
-And run:
+Clone the repository and run:
 ```console
 make docker-run
 ```
