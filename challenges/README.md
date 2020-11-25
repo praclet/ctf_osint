@@ -1,0 +1,3 @@
+# WIP for challenges
+
+Put anything you need in this directory: drafts, pictures...
