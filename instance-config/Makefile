@@ -1,10 +1,8 @@
 SHELL = /bin/sh
 IMAGE := ctfd/ctfd
 DOCKER_NAME := ctfd-bootcamp
-CTFD_PATH := CTFd
 
 docker-run:
-	cd $(CTFD_PATH)
 	docker run -p 8000:8000 -it --name $(DOCKER_NAME) $(IMAGE)
 
 docker-start:
