@@ -49,13 +49,13 @@ Then click on `Config` > `Backup` > `Import`. Choose the latest backup file from
   <img src="assets/tutorial_01.png" alt="CTFd import" width="600" />
 </p>
 
-The login is (case-sensitive): `Admin`
+The login is (case-sensitive): `Admin`  
 And pass is: `youshallnotpass`
 
-Make any changes you want to. Save them by exporting a backup.
+Make any changes you want to. Save them by exporting a backup: `Config` > `Backup` > `Export`.
 
 <p align="center">
-  <img src="assets/tutorial_02.png" alt="CTFd export" width="600" />
+  <img src="assets/tutorial_02.png" alt="CTFd export" width="700" />
 </p>
 
 Put this zip file in the `backup` directory:
