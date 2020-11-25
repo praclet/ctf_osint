@@ -137,4 +137,6 @@ dmypy.json
 *.vscode/
 
 # WIP
-instance-config/
+instance-config/CTFd/
+instance-config/assets/tutorial_03.png
+instance-config/assets/tutorial_04.png
