@@ -3,26 +3,32 @@
 Category: Level00  
 Tag: GEOINT  
 Type: Automatic  
-Flag: `APT42{3}`  
-Points: 20
+Flag: `APT42{9fbf261b62c1d7c00db73afb81dd97fdf20b3442e36e338cb9359b856a03bdc8}`  
+Points: 10
+Requirements: wandering wandre
 
 ## Message
 
-Your phone is ringing. The call is from a field agent. She has an urgent mission for you:
+Congratulations! The field agent is calling you again:
 
-"Hi!  
-One of my source told me that 'le Grand Architecte du Tout' was lurking around Station F and managed to enter it thanks to their social engineering skills. I hurried to drive there but unfortunately, I couldn't follow them.  
-My source saw the hacker having coffee in a cubic workspace located at the left of Microsoft.   
-The time is short and the Special Operation Forces are on the way. From the agency, with the help of your laptop, can you find the number of the cubic space where the hacker is having coffee?  
-We will communicate this number to the Special Operation Forces as soon as they arrive so they can arrest them."
-
-## Solution
-Use Google Maps to enter Station F, find the Microsoft area and the cube.
+"Hey! We sent the message you found to our profiler. It will be very useful to understand the motives of 'le Grand Architecte du Tout'.  
+He managed to enter Station F thanks to their social engineering skills. I hurried to drive there but unfortunately, I couldn't follow them.  
+My source said he managed to hack Station F camera systems. According to him, the hacker is having coffee in a compagny workspace. He sent us a picture of a place located at the left of this workspace. The picture is truncated again and I find this suspicious.  
+The time is short and the Special Operation Forces are on the way. From the agency, with the help of your laptop, from the attached picture, can you find where the hacker is having coffee?  
+We will communicate this name to the Special Operation Forces as soon as they arrive so they can arrest them."
 
 <p align="center">
-  <img src="gmap_00.png" alt="Gmap street" width="700" />
+  <img src="hint.png" alt="Gmaps street" width="700" />
 </p>
 
+To solve this challenge, submit the SHA-256 hash of the lower-cased compagny name.
+
+For example, if the flag is Framasoft, you would write it in lower-case letters as follows: framasoft, and then submit:  `APT42{15917111876bec347732074c45c3eeb33df156b664da2f443a5b9ea74cf195b9}`
+
+## Solution
+
+Use Google Maps to enter Station F.
+
 <p align="center">
-  <img src="gmap_01.png" alt="Inside Station F" width="700" />
+  <img src="gmap_view.png" alt="Gmap street" width="700" />
 </p>
