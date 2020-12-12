@@ -5,7 +5,7 @@ Tag: Forensics
 Type: Automatic  
 Flag:  
 Points: 40
-Requirements: Catch me if you can
+Requirements: Palmistry, Catch me if you can
 
 ## Message
 
