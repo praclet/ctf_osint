@@ -11,11 +11,10 @@ Requirements: Palmistry, Catch me if you can
 
 /!\ WIP
 
-On récupère un fichier là où il a pris son café
+Nous avons trouvé un fichier sensible dans la station F. Nous n'avons pas réussis à extraire la moindre information utile. Votre tache est de nous aider à récuperer un indice utile pour la suite.
 
-Image -> url compte twitter d'Ed Snowcrash
+Note: Le flag attendu sera sous le format => APT{shasum(info)} 
 
-TODO
 
 ## Solution
 
@@ -29,5 +28,5 @@ TODO
 # edit file MySecret42.txt ligne 42 remove =>  WW91IGtub3cgd2hhdCB0byBkbyB3aXRoIHRoaXM= + tab => md5sum file edit valid = 27f341520644abdcaa5387d62c9d9c1c
 # cat MySecret* | tr -d '\n' | base64 -d > test.jpg
 # open test.jpg (md5sum test.jpg  de9ee7028f94f5053faf36562e985a5e ) 
-# #Get the flag !
+# #Get the flag ! => APT{shasum(marvin_at_42)} => axx compte twitter.
 ```
