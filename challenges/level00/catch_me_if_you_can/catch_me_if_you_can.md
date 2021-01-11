@@ -3,7 +3,7 @@
 Category: Level00  
 Tag: GEOINT  
 Type: Automatic  
-Flag: `APT42{9fbf261b62c1d7c00db73afb81dd97fdf20b3442e36e338cb9359b856a03bdc8}`  
+Flag: `APT{9fbf261b62c1d7c00db73afb81dd97fdf20b3442e36e338cb9359b856a03bdc8}`  
 Points: 10
 Requirements: wandering wandre
 
@@ -23,7 +23,7 @@ We will communicate this name to the Special Operation Forces as soon as they ar
 
 To solve this challenge, submit the SHA-256 hash of the lower-cased compagny name.
 
-For example, if the flag is Framasoft, you would write it in lower-case letters as follows: framasoft, and then submit:  `APT42{15917111876bec347732074c45c3eeb33df156b664da2f443a5b9ea74cf195b9}`
+For example, if the flag is Framasoft, you would write it in lower-case letters as follows: framasoft, and then submit:  `APT{15917111876bec347732074c45c3eeb33df156b664da2f443a5b9ea74cf195b9}`
 
 ## Solution
 

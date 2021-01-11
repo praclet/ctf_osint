@@ -3,7 +3,7 @@
 Category: Level00  
 Tag: GEOINT  
 Type: Automatic  
-Flag: `APT42{CAC40}`  
+Flag: `APT{CAC40}`  
 Points: 20
 Requirements: Your Mission
 

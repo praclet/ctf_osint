@@ -9,11 +9,10 @@ Requirements: Palmistry, Catch me if you can
 
 ## Message
 
-/!\ WIP
+Unfortunately, the Special Operation Forces couldn't catch the hacker! However, they dropped something while escaping Station F. We retrieved this sensitive file but we were not able to extract any useful data from it.  
+Can you help us to find any clue that might lead us to the hacker?
 
-Nous avons trouvé un fichier sensible dans la station F. Nous n'avons pas réussis à extraire la moindre information utile. Votre tache est de nous aider à récuperer un indice utile pour la suite.
-
-Note: Le flag attendu sera sous le format => APT{shasum(info)} 
+To solve this challenge, submit the flag as follows: `APT{shasum(info)}`
 
 
 ## Solution
