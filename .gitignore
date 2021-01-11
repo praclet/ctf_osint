@@ -140,3 +140,4 @@ dmypy.json
 instance-config/CTFd/
 instance-config/assets/tutorial_03.png
 instance-config/assets/tutorial_04.png
+instance-config/local_backup/
