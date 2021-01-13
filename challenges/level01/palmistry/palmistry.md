@@ -1,6 +1,6 @@
 # Palmistry
 
-Category: Level00  
+Category: Level01  
 Tag: ???  
 Type: Automatic  
 Flag: `APT{22b6c2531e8514dd1cc8b91cb34c7f7c5a1c4db962f4323254dc6297fb4b65a3}`  
