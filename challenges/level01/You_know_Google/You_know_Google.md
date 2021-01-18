@@ -17,4 +17,11 @@ Good luck, we need Edward to answer what seems to be a trahison."
 
 ## Solution
 
-TODO
+1. Get google ID of account, one way is to add the e-mail to your contact, open dev tools and then click on the contact, check the batchexecute request, scroll all the way to the end and grab the ID  
+![contact](contact.png)
+
+2. Check account contribution to gmaps, use https://www.google.com/maps/contrib/ + ID (in this case the link will be https://www.google.com/maps/contrib/112096779393739237909)  
+![contribution_gmaps](contribution_gmaps.png)
+
+3. Grab the photo and get the exif data, the flag will appear in clear sight  
+![exif_data_on_image](exif_data_on_image.png)
