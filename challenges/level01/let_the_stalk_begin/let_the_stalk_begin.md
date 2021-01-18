@@ -3,20 +3,16 @@
 Category: Level01  
 Tag: SOCMINT  
 Type: Automatic  
-Flag:  
+Flag: `APT{Snowcrash-Edward-Analyst-APT}`  
 Points: 20
 Requirements: Data from out of space
 
 ## Message
 
-/!\ WIP
+It appears the picture leads to a Twitter account! The owner of this account must be an accomplice of 'le Grand Architecte du Tout'. Find out who they are!
 
-L'URL est celle d'un compte twitter, trouver à qui il appartient.
-
--> on trouve grâce au compte Linkedin d'Ed Snowcrash
-
-TODO
+To solve this challenge, submit the flags as follows (case-sensitive): `APT{Name-Firstname-Job-COMPANY}`. Yes, dashes `-` separate words.
 
 ## Solution
 
-TODO
+This is the Twitter account of Edward Snowcrash.

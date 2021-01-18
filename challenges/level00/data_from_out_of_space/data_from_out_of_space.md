@@ -3,7 +3,7 @@
 Category: Level00  
 Tag: Forensics  
 Type: Automatic  
-Flag:  
+Flag: `APT{shasum(marvin_at_42)}`  
 Points: 40
 Requirements: Palmistry, Catch me if you can
 
@@ -13,7 +13,6 @@ Unfortunately, the Special Operation Forces couldn't catch the hacker! However, 
 Can you help us to find any clue that might lead us to the hacker?
 
 To solve this challenge, submit the flag as follows: `APT{shasum(info)}`
-
 
 ## Solution
 
