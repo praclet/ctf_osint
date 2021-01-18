@@ -11,10 +11,10 @@ Requirements: Let the stalk begin
 
 The field agent is calling you again:
 
-"Hi!  
+"Hey again!  
 Congratulations! It appears Edward was a traitor and an accomplice of 'le Grand Architecte du Tout'. I now understand why Ed was so bad at taking photographs...  
 Anyway, this call is about your next task. We suppose the hacker owns a twitter account too. Can you find it? We need to investigate their internet presence.  
-Ah! And before I forgot! It seems the hacker likes to drink Club Maté. We found a bottle at Station F. See the picture attached."
+Ah! And before I forgot! It seems the hacker likes to drink Club Maté. We found a bottle of it at Station F. See the picture attached."
 
 To solve this challenge, submit the username as a flag (remove the `@`): `APT{username}`
 
