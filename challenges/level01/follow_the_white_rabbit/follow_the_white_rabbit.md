@@ -3,18 +3,21 @@
 Category: Level01  
 Tag: SOCMINT  
 Type: Automatic  
-Flag:  
+Flag: `APT{adrianakarante2}`  
 Points: 30
 Requirements: Let the stalk begin
 
 ## Message
 
-/!\ WIP
+The field agent is calling you again:
 
-En fouillant, on trouve le compte twitter de wandre. Trouver son compte htb
+"Hi!  
+Congratulations! It appears Edward was a traitor and an accomplice of 'le Grand Architecte du Tout'. I now understand why Ed was so bad at taking photographs...  
+Anyway, this call is about your next task. We suppose the hacker owns a twitter account too. Can you find it? We need to investigate their internet presence.  
+Ah! And before I forgot! It seems the hacker likes to drink Club Maté. We found a bottle at Station F. See the picture attached."
 
-TODO
+To solve this challenge, submit the username as a flag (remove the `@`): `APT{username}`
 
 ## Solution
 
-TODO
+The Linkedin page leads to a second Twitter account of Ed Snowcrash. He commented under a post of adrianakarante2. There is a Club Maté bottle on adriana banner picture.
