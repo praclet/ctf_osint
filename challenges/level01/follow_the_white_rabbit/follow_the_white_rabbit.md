@@ -22,4 +22,4 @@ To solve this challenge, submit the username as a flag (remove the `@`): `APT{us
 
 The Linkedin page leads to a second Twitter account of Ed Snowcrash. He commented under a post of adrianakarante2. There is a Club Maté bottle on adriana banner picture.
 
-If it is not possible to see the public profile of Ed on Linkedin (no account and so forth), get the profile URL and paste it in [Mobile Friendly Test](https://search.google.com/test/mobile-friendly), save the HTML content in a `file.html` and open it in your browser.
+If it is not possible to see the public profile of Ed on Linkedin (no account and so forth), get the profile URL (https://www.linkedin.com/in/edsnowcrash/) and paste it in [Mobile Friendly Test](https://search.google.com/test/mobile-friendly), save the HTML content in a `file.html` and open it in your browser.
