@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/apt42_logo.png" alt="APT42 logo" width="250" />
+</p>
+
 <h1 align="center">
   CTF OSINT
 </h1>
@@ -7,8 +11,11 @@
 
 ### Table of Contents
 
-- [Curriculum](#curriculum)
+- [Project](#project)
 - [Acknowledgements](#acknowledgements)
+- [License](#license)
+
+## Project
 
 This project is a CTF hosted by APT42.
 
@@ -32,10 +39,19 @@ Basic knowledge of the internet, computers, search engines, and social networks.
 
 ### Contributors
 
-* Firstname Name (login@student.42.fr)
-* ...
+* Mathilde Boivin (mboivin)
+* Wil (wandre)
+* (avan-pra)
+* (therbret)
 
 ### Beta-testers
 
-* Firstname Name (login@student.42.fr)
+* Firstname Name (login)
 * ...
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a>
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
