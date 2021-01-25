@@ -21,6 +21,8 @@ This project is a CTF hosted by APT42.
 
 It runs as a Capture the Flag format where students have to collect flags to validate levels. Learn OSINT basics by solving challenges that focus on GEOINT, IMINT, SOCMINT and investigative journalism techniques.
 
+APT42 is a student organization of the Paris campus of the school 42. We aim to foster interest in information security and to provide a safe and inclusive space for everyone to learn and improve their cybersecurity skills.
+
 ### Intended audience
 
 Students who aim to work as:
