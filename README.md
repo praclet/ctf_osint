@@ -13,6 +13,7 @@
 
 - [Project](#project)
 - [Acknowledgements](#acknowledgements)
+- [How to contribute](#how-to-contribute)
 - [License](#license)
 
 ## Project
@@ -50,6 +51,10 @@ Basic knowledge of the internet, computers, search engines, and social networks.
 
 * Firstname Name (login)
 * ...
+
+## How to contribute
+
+You are a 42 student and willing to contribute? Follow these [guidelines](CONTRIBUTING.md).
 
 ## License
 
