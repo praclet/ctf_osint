@@ -17,15 +17,13 @@ To solve this challenge, submit the flag as follows: `APT{shasum(info)}`
 ## Solution
 
 ```sh
-# mkdir /meda/usb_mount_point
-# mount -t auto -o loop data.bin /media/usb_mount_point
-# cd /media/usb_mount_point
-# mkdir /tmp/n
-# find -iname '*.txt' -exec cp {} /tmp/n \;
-# cd /tmp/n 
-# edit file MySecret42.txt ligne 42 remove =>  WW91IGtub3cgd2hhdCB0byBkbyB3aXRoIHRoaXM= + tab => md5sum file edit valid = 27f341520644abdcaa5387d62c9d9c1c
-# cat MySecret* | tr -d '\n' | base64 -d > test.jpg
-# open test.jpg (md5sum test.jpg  de9ee7028f94f5053faf36562e985a5e ) 
+# file uknown
+# unknown: POSIX tar archive (GNU)
+# tar -xf uknown
+# fcrackzip -u -D -p test.bin my_secret_files.bin 
+# PASSWORD FOUND!!!!: pw == liecu7chahrohqu0aiX4eeph7ho6chae
+# unzip my_secret_files.bin 
+# file my_akka
 # #Get the flag ! => axx compte twitter.
 # echo -n marvin_at_42 | sha256sum                                                                                                
 # e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9
