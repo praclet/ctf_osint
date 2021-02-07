@@ -13,6 +13,10 @@ Unfortunately, the Special Operation Forces couldn't catch the hacker! However, 
 Can you help us to find any clue that might lead us to the hacker?
 
 To solve this challenge, submit the flag as follows: `APT{shasum(info)}`
+For exemple if My_Flag is the info:
+echo -n My_Flag | sha256sum  
+f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}
 
 ## Solution
 
