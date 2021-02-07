@@ -3,7 +3,7 @@
 Category: Level00  
 Tag: GEOINT  
 Type: Automatic  
-Flag: `APT{CAC40}`  
+Flag: `APT{fe8d800d80298868cb10a352953eac038ccdbd677174c77e36fd24b873114c09}`  
 Points: 20
 Requirements: Your Mission
 
@@ -22,6 +22,12 @@ Can you find the whole message?"
 
 To solve this challenge, submit the fourth word of the message (5 characters).
 
+For exemple if My_Flag is the name:
+echo -n My_Flag | sha256sum  
+f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+
+APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}
+
 ## Solution
 
 Use Google Maps.
@@ -29,3 +35,7 @@ Use Google Maps.
 <p align="center">
   <img src="solution-message.png" alt="Full message" width="700" />
 </p>
+
+echo -n CAC40 | sha256sum 
+fe8d800d80298868cb10a352953eac038ccdbd677174c77e36fd24b873114c09
+
