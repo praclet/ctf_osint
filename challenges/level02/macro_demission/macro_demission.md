@@ -10,6 +10,7 @@ Requirements: Mail Bomb
 ## Message
 
 Hint qui coûte 190 pts
+ - BIFF + XLM Macro = PROFIT 
 
 ## Solution
  
