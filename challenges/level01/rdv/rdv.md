@@ -5,7 +5,7 @@ Tag: SOCMINT/GEOINT
 Type: Automatic  
 Flag: `APT{Electrolab}`  
 Points: 30
-Requirements: Ok user
+Requirements: Follow the white rabbit
 
 ## Message
 
