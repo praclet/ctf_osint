@@ -3,7 +3,7 @@
 Category: Level01  
 Tag: SOCMINT  
 Type: Automatic  
-Flag: `APT{w3ll_n0w_yOu_d0}`  
+Flag: `APT{ffc678b07a0da80d8749d8ee29436c3fb0c092ceb31306c3b531813c8b98b260}`  
 Points: 35  
 Requirements: Palmistry
 
