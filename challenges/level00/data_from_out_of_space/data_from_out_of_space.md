@@ -3,7 +3,7 @@
 Category: Level00  
 Tag: Forensics  
 Type: Automatic  
-Flag: `APT{shasum(marvin_at_42)}`  
+Flag: `APT{e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9}`  
 Points: 40
 Requirements: Palmistry, Catch me if you can
 
@@ -26,5 +26,8 @@ To solve this challenge, submit the flag as follows: `APT{shasum(info)}`
 # edit file MySecret42.txt ligne 42 remove =>  WW91IGtub3cgd2hhdCB0byBkbyB3aXRoIHRoaXM= + tab => md5sum file edit valid = 27f341520644abdcaa5387d62c9d9c1c
 # cat MySecret* | tr -d '\n' | base64 -d > test.jpg
 # open test.jpg (md5sum test.jpg  de9ee7028f94f5053faf36562e985a5e ) 
-# #Get the flag ! => APT{shasum(marvin_at_42)} => axx compte twitter.
+# #Get the flag ! => axx compte twitter.
+# echo -n marvin_at_42 | sha256sum                                                                                                
+# e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9
+# APT{shasum(e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9}
 ```
