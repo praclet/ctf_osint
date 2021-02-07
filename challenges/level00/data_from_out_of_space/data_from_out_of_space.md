@@ -30,4 +30,5 @@ To solve this challenge, submit the flag as follows: `APT{shasum(info)}`
 # echo -n marvin_at_42 | sha256sum                                                                                                
 # e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9
 # APT{shasum(e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9}
+# On retrouve le même résultat avec => https://emn178.github.io/online-tools/sha256.html "marvin_at_42'
 ```
