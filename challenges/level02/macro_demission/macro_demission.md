@@ -12,5 +12,6 @@ Requirements: Mail Bomb
 Hint qui coûte 190 pts
 
 ## Solution
-- Install https://github.com/DissectMalware/XLMMacroDeobfuscator/
- xlmdeobfuscator --file FILENAMEHERE.xls  --export-json result.json ; cat result.json | grep APT
+ 
+ - Install https://github.com/DissectMalware/XLMMacroDeobfuscator/
+ - xlmdeobfuscator --file FILENAMEHERE.xls  --export-json result.json ; cat result.json | grep APT
