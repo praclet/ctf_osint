@@ -1,7 +1,7 @@
-# geoguessr
+# shoplifter_shoplifting_1.md
 
 Category: Level03  
-Tag: GEOINT  
+Tag: OSINT  
 Type: Automatic  
 Flag: `APT{}`  
 Points: 0  
