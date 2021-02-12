@@ -3,8 +3,8 @@
 Category: Level02  
 Tag: Forensics  
 Type: Automatic  
-Flag: `APT{}`  
-Points: 100
+Flag: `APT{406ec36458a5d55675571e4e5d315dfb31567d797e5a85a2a3f1914e0e78c751}`  
+Points: 50
 Requirements: You know Google?, R.D.V, Ok user
 
 ## Message
