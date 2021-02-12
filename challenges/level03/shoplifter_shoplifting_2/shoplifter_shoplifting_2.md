@@ -3,8 +3,8 @@
 Category: Level03  
 Tag: OSINT  
 Type: Automatic  
-Flag: `APT{}`  
-Points: 0  
+Flag: `APT{72612d4a76ddd7e01f7ba41e61a8b6331067cf823789b5bc135b5814b9af90ba}`  
+Points: 120  
 Requirements: shoplifter_shoplifting_1
 
 ## Message
