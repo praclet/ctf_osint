@@ -17,6 +17,6 @@ Please help us in investigating the logs, our whole network is in danger !"
 
 ## Solution
 
-> Read the log and find the ghostbin with a password as parameter.
-> LoG_PoiSon1ng_1s_fUn
-? https://ghostbin.co/paste/mchncuhj
+> Read the log and find the ghostbin with a password as parameter.  
+> LoG_PoiSon1ng_1s_fUn  
+> https://ghostbin.co/paste/mchncuhj
