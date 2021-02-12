@@ -1,4 +1,4 @@
-# shoplifter_shoplifting_1.md
+# shoplifter_shoplifting_1
 
 Category: Level03  
 Tag: OSINT  
