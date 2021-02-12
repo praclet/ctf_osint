@@ -8,7 +8,7 @@ Points: 100
 Requirements: macro demission, ghost in the shell, internet never forgets  
 
 ## Message
-Wow agent, thats a lot of info you managed to give us recently,  
+Wow agent, thats a lot of info you managed to get us recently,  
 The secret behind the xls file, the ghostbin info with the help you provided to 42school and last but not least wandre's old blog.  
 Now its time to step up the level and dive deep into wandre's life and to try getting as close as possible to him.  
 With the recent info you provided we found out there was a video/photo hidden in *REDACTED*  
