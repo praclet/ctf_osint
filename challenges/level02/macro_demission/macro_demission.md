@@ -14,7 +14,7 @@ An attachment in the e-mail attracted our minds.
 Be careful if oppening this document though, the data it contains may harm you.  
 
 Hint qui coûte 190 pts
- - BIFF + XLM Macro = PROFIT 
+ - Verryhiden is a nice feature in excel. With BIFF and XLM Macro we can do a lot of things..
 
 ## Solution
  
