@@ -14,7 +14,7 @@ Minutes later a tourist which seems to had good intentions grabbed the phone, bu
 We need you to find info about the phone.  
 We contacted the tourist and he told us that he handed over the phone to the train station authorities.  
 
-To solve this challenge, submit the flag as follows: APT{sha256(object_nature-hour:minute)}  (hour and minute of restitution)
+To solve this challenge, submit the flag as follows: APT{sha256(object_nature-hour:minute)}  (hour and minute of restitution)  
 Do not translate the object nature.  
 For exemple if "Optique" is the object nature and time is 23:59  
 echo -n "Optique-23:59" | sha256sum  
