@@ -9,7 +9,7 @@ Requirements: geoguessr
 
 ## Message
 We got the videosurveillance of the train station;  
-Someone strange caught our attention, we got him leaving a phone on the ground february the 16th.  
+Someone strange caught our attention, we got him leaving a phone on the ground february the 16th in Strasbourg train Station.  
 Minutes later a tourist which seems to had good intentions grabbed the phone, but get out of camera view.  
 We need you to find info about the phone.  
 We contacted the tourist and he told us that he handed over the phone to the train station authorities.  
