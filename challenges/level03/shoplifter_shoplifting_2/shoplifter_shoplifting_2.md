@@ -15,7 +15,7 @@ James Wang, wont be an easy task... or will it?
 Maybe you can try to recon social media ?  
 
 ## Solution
-Twitter "James Wang phone". Found the James Wang we are looking for.  
+Twitter "James Wang phone". Search for the James Wang we are looking for.  
 He says he loves the number 4.  
 Found the flag which is split in 4 part  
 1.`72612d4a76ddd7e0` //in a tweet  
