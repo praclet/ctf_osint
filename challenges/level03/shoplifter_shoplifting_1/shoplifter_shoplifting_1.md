@@ -10,8 +10,9 @@ Requirements: geoguessr
 ## Message
 We got the videosurveillance of the train station;  
 Someone strange caught our attention, we got him leaving a phone on the ground february the 16th.  
-Minutes later a tourist which seems to had good intentions grabbed the phone, but get out of camera view.
-We need you to find info about the phone, we contacted the tourist and he told us that he handed over the phone to the train station authorities.  
+Minutes later a tourist which seems to had good intentions grabbed the phone, but get out of camera view.  
+We need you to find info about the phone.  
+We contacted the tourist and he told us that he handed over the phone to the train station authorities.  
 
 To solve this challenge, submit the flag as follows: APT{sha256(object_nature-hour:minute)}  (hour and minute of restitution)
 For exemple if "Optique" is the object nature and time is 23:59  
