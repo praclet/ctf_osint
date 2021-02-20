@@ -22,9 +22,9 @@ c42b07a5d57dc3e89b3cd4dac019f20d5b777d11e3cc6e1f245546c348051d99
 APT{c42b07a5d57dc3e89b3cd4dac019f20d5b777d11e3cc6e1f245546c348051d99}  
 
 ## Solution
-If the tourist had goog intention he probably handed the phone over to the lost object  
+If the tourist had good intention he probably handed the phone over to the lost object  
 SNCF is the authority ruling the train station, google "lost object sncf"  
-Go to the open data website and look for Strabourg february 16th find out there are 2 phone lost but same timestamp
-echo -n "Téléphone portable protégé (étui, coque,…)-10:13" | sha256sum
-e09303dfd12fdf74dd19d7eaad222f2a792ccf86bac9bd4a35ae494628721b07
-APT{e09303dfd12fdf74dd19d7eaad222f2a792ccf86bac9bd4a35ae494628721b07}
+Go to the open data website and look for Strabourg february 16th find out there are 2 phone lost but same timestamp  
+echo -n "Téléphone portable protégé (étui, coque,…)-10:13" | sha256sum  
+e09303dfd12fdf74dd19d7eaad222f2a792ccf86bac9bd4a35ae494628721b07  
+APT{e09303dfd12fdf74dd19d7eaad222f2a792ccf86bac9bd4a35ae494628721b07}  
