@@ -8,7 +8,11 @@ Points: 100
 Requirements: geoguessr  
 
 ## Message
-Photo taken towards east  
+One of our contributor went to the small town where the video is taken.  
+Below the structure shown in the video, pinned to one of the pillar, he found a picture.  
+The sea harmed it a bit but our AI managed to upscale it a lot.  
+It seems like this investigation is turning itslef more and more into a treasure hunt. Hope we won't find anything crazy...  
+Anyway, once again, your job is to find the location of this picture, we are sure something relevant will appear if you succeed.  
 
 To solve this challenge, submit the flag as follows: APT{sha256(chairlift_name)}  
 For exemple if "Pengelstein 1" is the chairlift name (see right side of the photo):  
