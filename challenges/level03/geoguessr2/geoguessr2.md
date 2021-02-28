@@ -21,7 +21,10 @@ echo -n "Pengelstein 1" | sha256sum
 APT{94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9}  
 
 ## Hint
+Mountain in the background is a little famous, try to enumerate.  
+We name things the way they look like to us.  
 
+"It is often difficult to wash them" (query in French)
 
 ## Solution
 
