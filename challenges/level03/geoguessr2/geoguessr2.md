@@ -32,7 +32,7 @@ Try to find this location in google earth.
 ![photo_highlight](solution1.png)
 There arent many place like this in google earth in the west side of the "Dents du Midi", maybe 1 or too location may get your attention
 ![photo_highlight_earth](solution2.png)
-You see 3 chairlift on the map, grab photo of the 3 and see that the right one is Chavanette
+You see 3 chairlift that goes as high as the photo on the map, grab photo of the 3 and see that the right one is Chavanette
 
 echo -n "Chavanette" | sha256sum  
 916154debfb1a3c932e9fa501d2eff53fc3ab6054933a53237e7e35fe9f60a2b  
