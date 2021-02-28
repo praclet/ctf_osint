@@ -18,7 +18,7 @@ The time is short and the Special Operation Forces are on the way. From the agen
 We will communicate this name to the Special Operation Forces as soon as they arrive so they can arrest them."
 
 <p align="center">
-  <img src="hint.png" alt="Gmaps street" width="700" />
+  <img src="catchme_hint.png" alt="Gmaps street" width="700" />
 </p>
 
 To solve this challenge, submit the SHA-256 hash of the lower-cased compagny name.
