@@ -13,7 +13,7 @@ While relaxing after finding out the phone, and while the forensic team is inves
 It's from the APT agency, they have a problem. The agency claims that someone managed to reverse engineer their new secret Kerberos protocol.  
 They have found a bunch of custom Kerberos-apt42 tickets in a trashcan nearby 42school. They are sure those tickets arent issued by them.  
 However it seems like his machine to generate tickets isnt working properly, only one of the ticket is working properly.  
-Find out which one and sumbite it.  
+Find out which one and sumbit it.  
 
 WARNING: This challenge has a maximum number of try, do not submit randomly as you won't be able to get to the end of the ctf, if in doubt pm admin.  
 
