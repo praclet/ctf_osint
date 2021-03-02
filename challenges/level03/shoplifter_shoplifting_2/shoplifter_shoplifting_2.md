@@ -11,7 +11,7 @@ Requirements: shoplifter_shoplifting_1
 Thanks to the info about the mobile phone you provided,  
 Sadly the one that we were intrested in has already been receptionned by someone else.  
 We went to the lost objects at the train station, and tricked the receptionnist into giving us the name of the personn that got his hand on the mobile phone we are looking for.  
-"Vladou Wang"  
+"James Wang"  
 Wont be an easy task... or will it?  
 Maybe you can try to recon social media ?  
 
