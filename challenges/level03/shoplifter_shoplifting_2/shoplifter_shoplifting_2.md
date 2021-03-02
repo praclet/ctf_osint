@@ -15,6 +15,8 @@ We went to the lost objects at the train station the SAME DAY the object got ret
 Wont be an easy task... or will it?  
 Maybe you can try to recon and do some dork on social media ?  
 
+ps: (don't rely too much on "James Wang" to find James Wang)
+
 ## Solution
 Twitter advanced search strasbourg in february 2021 and look for a James Wang.  
 He says the flag is hidden among his profile.  
