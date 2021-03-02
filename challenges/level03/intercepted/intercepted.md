@@ -24,6 +24,6 @@ echo -n "3" | sha256sum
 APT{4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce}  
 
 ## Hint
-Have you found the documentation yet ? James Wang knew a lot about custom apt42 kerberos ticket.  
+Have you found the documentation yet ? James Wang had some friend that knew a lot about custom apt42 kerberos ticket.  
 
 ## Solution
