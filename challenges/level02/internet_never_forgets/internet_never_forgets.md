@@ -16,8 +16,12 @@ Recon his github repositories, look for anything that look suspicious, maybe you
 
 ## Solution
 
-> Aller sur le page https://github.com/0x927
-> Chercher dans la liste des repos fork le repos => https://github.com/0x927/resources
+> Aller sur le page https://github.com/0x927 
+
+> Chercher dans la liste des repos fork le repos => https://github.com/0x927/resources 
+
 > Aller à la source de ce fork dans les commits et regarder les commentaires.
-> Trouver => https://github.com/apt-42/resources/commit/ccb48a6ec53a781bf76ccbaa8945f770db0f4995
+ 
+> Trouver => https://github.com/apt-42/resources/commit/ccb48a6ec53a781bf76ccbaa8945f770db0f4995 
+
 > Copier le flag.
