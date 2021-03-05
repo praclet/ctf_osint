@@ -31,6 +31,7 @@ Then do an other script that will check if the code is valid
 (download ticket.tar.gz at the root of the docker folder)  
 build & run  
 ```
+tar -xf ticket.tar.gz
 bash script.sh
 python3 confirm.py
 DRDG-9Y69-8EDS-9Y1Y
