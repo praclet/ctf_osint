@@ -22,9 +22,10 @@ APT{33d07c717e1889c263cf86b84edd0a5aa3f12826a62da802ca3bf033d87b4f13}
 
 ## Hint
 Have you found the documentation yet ? James Wang had some friend that knew a lot about custom apt42 kerberos ticket.  
+If yes, try cropping the image, remove blank lines & spaces.  
 
 ## Solution
-Under one of James Wang's tweet a use posted a link to a documentation  
+Under one of James Wang's tweet a user posted a link to a documentation  
 Upon looking up the usage page, you will find a set of 4 rules to see if a ticket is valid or not  
 Create a script that will loop through all the 5000 image and extract the code  
 Then do an other script that will check if the code is valid  
