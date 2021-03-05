@@ -35,7 +35,7 @@ def is_valid_ticket(ticket):
     return True
 
 fd = open("./ticket.txt")
-for i in range(0, 10000):
+for i in range(0, 5000):
     line = fd.readline()
     linesave = line.replace('\n', '')
     line = line.replace('-', '').replace('\n', '')
