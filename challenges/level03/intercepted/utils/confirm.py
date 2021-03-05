@@ -40,7 +40,7 @@ for i in range(0, 5000):
     linesave = line.replace('\n', '')
     line = line.replace('-', '').replace('\n', '')
     arr = []
-    for i in line:
-        arr.append(i)
+    for d in line:
+        arr.append(d)
     if is_valid_ticket(arr) == True:
-        print(linesave)
+        print(i, linesave)
