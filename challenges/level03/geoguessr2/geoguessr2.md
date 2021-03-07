@@ -9,10 +9,11 @@ Requirements: geoguessr
 
 ## Message
 One of our contributor went to the small town where the video is taken.  
-Below the structure shown in the video, pinned to one of the pillar, he found a picture.  
+Below the structure shown in the video, pinned to one of the pillar, a picture was found.  
 The sea harmed it a bit but our AI managed to upscale it a lot.  
 It seems like this investigation is turning itslef more and more into a treasure hunt. Hope we won't find anything crazy...  
 Anyway, once again, your job is to find the location of this picture, we are sure something relevant will appear if you succeed.  
+One of our contributor recognize some part of the photo and told us it was probably taken in western europe, maybe that will help you.  
 
 To solve this challenge, submit the flag as follows: APT{sha256(chairlift_name)}  
 For exemple if "Pengelstein 1" is the chairlift name (see right side of the photo):  
