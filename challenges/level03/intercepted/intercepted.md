@@ -8,11 +8,11 @@ Points: 100
 Requirements: shoplifter shoplifting 2  
 
 ## Message
-While relaxing after finding out the phone, and while the forensic team is investigating it, an e-mail pops up on your screen.  
+While waiting for information about the next step in this case, an e-mail pops up on your screen.  
 It's from the APT agency, they have a problem. The agency claims that someone managed to reverse engineer their new secret Kerberos protocol.  
 They have found a bunch of custom Kerberos-apt42 tickets in a trashcan nearby 42school. They are sure those tickets arent issued by them.  
-However it seems like his machine to generate tickets isnt working properly, only one of the ticket is working properly.  
-Find out which one and sumbit it.  
+However it seems like his machine to generate tickets isnt working properly, the agency claim only 1 of the ticket is valid.  
+Find out which one and sumbit it, maybe it will help to get the hacker's location in a way...  
 
 To solve this challenge, submit the flag as follows: APT{sha256(ticket_value)}  
 For exemple if the ticket number "0123-4567-89AB-CDEF" is the valid ticket:  
