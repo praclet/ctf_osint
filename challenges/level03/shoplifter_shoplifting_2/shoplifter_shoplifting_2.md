@@ -1,11 +1,11 @@
 # shoplifter_shoplifting_2
 
 Category: Level03  
-Tag: OSINT  
+Tag: SOCMINT  
 Type: Automatic  
 Flag: `APT{72612d4a76ddd7e01f7ba41e61a8b6331067cf823789b5bc135b5814b9af90ba}`  
 Points: 120  
-Requirements: shoplifter_shoplifting_1
+Requirements: shoplifter_shoplifting_1  
 
 ## Message
 Thanks to the info about the phone you provided,  
