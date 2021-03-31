@@ -3,8 +3,8 @@
 Category: Level02  
 Tag: Steganography  
 Type: Automatic  
-Flag: `APT{}`  
-Points: 80
+Flag: `APT{c3094e458a5adf2c2832ee22f71100e2004fdb8873c3c1331a7b3a7e58ab82fb}`  
+Points: 40
 Requirements: You know Google?, R.D.V, Ok user
 
 ## Message
@@ -21,4 +21,5 @@ f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
 APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}
 
 ## Solution
-
+Lire le spectogram du fichier.
+sT3g4n0_4udi0_Is_fUn => c3094e458a5adf2c2832ee22f71100e2004fdb8873c3c1331a7b3a7e58ab82fb
