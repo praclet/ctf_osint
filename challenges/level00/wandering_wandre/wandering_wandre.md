@@ -17,7 +17,7 @@ Ed saw the hacker writing a message under a firemen sign and took a picture, but
 Can you find the whole message?"
 
 <p align="center">
-  <img src="hint.png" alt="Gmap street" width="700" />
+  <img src="wander_hint.png" alt="Gmap street" width="700" />
 </p>
 
 To solve this challenge, submit the fourth word of the message (5 characters).
