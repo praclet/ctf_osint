@@ -8,8 +8,20 @@ Points: 80
 Requirements: You know Google?, R.D.V, Ok user
 
 ## Message
-Good job, you found the github account of the hacker !  
-Recon his github repositories, look for anything that look suspicious, maybe you can find something interesting...  
+
+Good job, you found the Github account of the hacker!  
+Recon his Github repositories, look for anything that look suspicious, maybe you can find something interesting...  
+
+To solve this challenge, submit the SHA-256 hash of the flag.
+
+For example, if My_Flag is the flag:
+```
+echo -n My_Flag | sha256sum
+f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+```
+
+Submit the flag as follows:  
+`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
 ## Solution
 

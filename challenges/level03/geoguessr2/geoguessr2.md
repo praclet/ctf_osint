@@ -8,6 +8,7 @@ Points: 100
 Requirements: geoguessr  
 
 ## Message
+
 One of our contributor went to the small town where the video is taken.  
 Below the structure shown in the video, pinned to one of the pillar, a picture was found.  
 The sea harmed it a bit but our AI managed to upscale it a lot.  
@@ -15,11 +16,16 @@ It seems like this investigation is turning itslef more and more into a treasure
 Anyway, once again, your job is to find the location of this picture, we are sure something relevant will appear if you succeed.  
 One of our contributor recognize some part of the photo and told us it was probably taken in western europe, probably in the alpes maybe that will help you.  
 
-To solve this challenge, submit the flag as follows: APT{sha256(chairlift_name)}  
-For exemple if "Pengelstein 1" is the chairlift name (see right side of the photo):  
-echo -n "Pengelstein 1" | sha256sum  
-94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9  
-APT{94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9}  
+To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{chairlift_name}`.
+
+For example, if "Pengelstein 1" is the chairlift name (see right side of the photo):
+```
+echo -n "Pengelstein 1" | sha256sum
+94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9
+```
+
+Submit the flag as follows:  
+`APT{94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9}`
 
 ## Hint
 Mountain in the background is a little famous, try to enumerate.  
