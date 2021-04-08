@@ -15,7 +15,13 @@ We just arrived at the location you manage to pinpoint nearby Station F. Sadly t
 
 To solve this challenge, submit the SHA-256 hash of the filename from the archive which correspond to the hacker fingerprints.
 
-For example, if the filename is 085_10_6.tif, then submit: 
+For example, if 085_10_6.tif is the filename:
+```
+echo -n 085_10_6.tif | sha256sum
+2b927e1a9d5a2e22768a8e16f291cc5d051d0180e65cd439fe8cfda98119bac3
+```
+
+Submit the flag as follows:  
 `APT{2b927e1a9d5a2e22768a8e16f291cc5d051d0180e65cd439fe8cfda98119bac3}`
 
 ## Solution

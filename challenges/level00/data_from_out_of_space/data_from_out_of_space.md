@@ -12,11 +12,14 @@ Requirements: Catch me if you can
 Unfortunately, the Special Operation Forces couldn't catch the hacker! However, they dropped something while escaping Station F. We retrieved this sensitive file but we were not able to extract any useful data from it.  
 Can you help us to find any clue that might lead us to the hacker?
 
-To solve this challenge, submit the flag as follows: `APT{shasum(info)}`
-For exemple if My_Flag is the info:
-echo -n My_Flag | sha256sum  
+For example, if My_Flag is the flag:
+```
+echo -n My_Flag | sha256sum
 f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
-APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}
+```
+
+Submit the flag as follows:  
+`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
 ## Solution
 

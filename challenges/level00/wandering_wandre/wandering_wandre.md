@@ -20,13 +20,16 @@ Can you find the whole message?"
   <img src="wander_hint.png" alt="Gmap street" width="700" />
 </p>
 
-To solve this challenge, submit the fourth word of the message (5 characters).
+To solve this challenge, submit the SHA-256 hash of the fourth word of the message (5 characters).
 
-For exemple if My_Flag is the name:
-echo -n My_Flag | sha256sum  
+For example, if My_Flag is the word:
+```
+echo -n My_Flag | sha256sum
 f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+```
 
-APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}
+Submit the flag as follows:  
+`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
 ## Solution
 

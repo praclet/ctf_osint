@@ -21,9 +21,16 @@ We will communicate this name to the Special Operation Forces as soon as they ar
   <img src="catchme_hint.png" alt="Gmaps street" width="700" />
 </p>
 
-To solve this challenge, submit the SHA-256 hash of the lower-cased compagny name.
+To solve this challenge, submit the SHA-256 hash of the lower-cased company name.
 
-For example, if the flag is Framasoft, you would write it in lower-case letters as follows: framasoft, and then submit:  `APT{15917111876bec347732074c45c3eeb33df156b664da2f443a5b9ea74cf195b9}`
+For example, if Framasoft is the company name, you would write it in lower-case letters as follows:
+```
+echo -n framasoft | sha256sum
+15917111876bec347732074c45c3eeb33df156b664da2f443a5b9ea74cf195b9
+```
+
+Submit the flag as follows:  
+`APT{15917111876bec347732074c45c3eeb33df156b664da2f443a5b9ea74cf195b9}`
 
 ## Solution
 
