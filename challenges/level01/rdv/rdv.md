@@ -11,11 +11,16 @@ Requirements: Follow the white rabbit
 
 You just received an email informing you that Edward Snowcrash was arrested. He was interrogated and confessed that 'le Grand Architecte du Tout' used to meet at some regular place with another accomplice. This accomplice is apparently fond of cats and a social engineering specialist. Can you find their *lieu de R.D.V*? We need to arrest both of them.
 
-For exemple if My_Flag is the name:  
-echo -n My_Flag | sha256sum    
-f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404  
+To solve this challenge, submit the SHA-256 hash of the location (it has a name).
 
-APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}  
+For example, if My_Flag is the flag:
+```
+echo -n My_Flag | sha256sum
+f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+```
+
+Submit the flag as follows:  
+`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
 ## Solution
 

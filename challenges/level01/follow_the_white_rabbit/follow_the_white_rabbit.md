@@ -16,10 +16,16 @@ Congratulations! It appears Edward was a traitor and an accomplice of 'le Grand 
 Anyway, this call is about your next task. We suppose the hacker owns a twitter account too. Can you find it? We need to investigate their internet presence.  
 Ah! And before I forgot! It seems the hacker likes to drink Club Maté. We found a bottle of it at Station F. See the picture attached."
 
-To solve this challenge, submit the username as a flag (remove the `@`): `APT{username}`
-For exemple if My_Flag is the name:
-echo -n My_Flag | sha256sum  
+To solve this challenge, submit the SHA-256 hash of the username as a flag (remove the `@`): `APT{username}`
+
+For example, if My_Flag is the flag:
+```
+echo -n My_Flag | sha256sum
 f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+```
+
+Submit the flag as follows:  
+`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
 ## Solution
 

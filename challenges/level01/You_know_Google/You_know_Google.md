@@ -15,6 +15,17 @@ Requirements: Palmistry
 "You won't like it, an e-mail, Edward Snowcrash's e-mail, Edward disapeared from all radar, is he a traitor ? Who knows. As of now i need you to find his last location. Some intel suggest he went on holidays, here is his e-mail: edwardsnowcrash@gmail.com  
 We need Edward to answer his supposedly betrayal. Good luck agent."
 
+To solve this challenge, submit the SHA-256 hash of the flag.
+
+For example, if My_Flag is the flag:
+```
+echo -n My_Flag | sha256sum
+f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+```
+
+Submit the flag as follows:  
+`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
+
 ## Hint
 
 Have you ever heard of google ID ? Have you grabed it yet ?  
@@ -30,3 +41,5 @@ ps: if you have the picture, you got the flag, just look dEEper :)
 
 3. Grab the photo and get the exif data, the flag will appear in clear sight  
 ![exif_data_on_image](exif_data_on_image.png)
+
+`APT{w3ll_n0w_yOu_d0}`

@@ -20,7 +20,7 @@ Can you find the whole message?"
   <img src="wander_hint.png" alt="Gmap street" width="700" />
 </p>
 
-To solve this challenge, submit the SHA-256 hash of the fourth word of the message (5 characters).
+To solve this challenge, submit the SHA-256 hash of the fourth word of the message (5 characters long).
 
 For example, if My_Flag is the word:
 ```
