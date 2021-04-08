@@ -4,7 +4,7 @@ Category: Level02
 Tag: Data science  
 Type: Automatic  
 Flag: `APT{9fbb38c2b63244203cf502b8df99bc032aff45ba853e494e0e7ccf9272b4e9fe}`  
-Points: 120
+Points: 80
 Requirements: Albatraoz
 
 ## Message
@@ -19,11 +19,16 @@ Too bad most of it are spam-like e-mail. Maybe with a secret trick of yours, you
 Like an e-mail addressed to Edward for example?
 ```
 
-To solve this challenge, submit the flag as follows: APT{sha256(mail subject)}  
-For exemple if My_Flag is the mail subject:  
-echo -n My_Flag | sha256sum  
-f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404  
-APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}  
+To solve this challenge, submit the SHA-256 hash of the flag.
+
+For example, if My_Flag is the flag:
+```
+echo -n My_Flag | sha256sum
+f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+```
+
+Submit the flag as follows:  
+`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
 ## Solution
 
