@@ -15,9 +15,10 @@ Now its time to step up the level and dive deep into wandre's life and to try ge
 With the recent info you provided we found out there was a video/photo hidden in one of the email you parsed earlier  
 Something seems to have been happening in this place.  
 First things first, we need you to find out where is the video taken.  
-If that can help you (it won't), yes, it's located in France.
 
-To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{town_where_the_video_is_taken}`.
+ps: If that can help you (it won't), yes, it's located in France.  
+
+To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{town_where_the_video_is_taken}`.  
 
 For example, if "Saint-Jean-de-Luz" is the town the video has been taken in:
 ```
@@ -29,7 +30,7 @@ Submit the flag as follows:
 `APT{df198b8313a00d11c0551672477a5438b80a1518c62f97c57e2d853b0ce523c1}`
 
 ## Hint
-"it is what it is", but maybe there's a different term...  
+"it is what it is", but maybe there's a different term to name it, synonyme maybe ?  
 
 ## Solution
 When looking in the video you will be able to see something which seems like a "ponton"  

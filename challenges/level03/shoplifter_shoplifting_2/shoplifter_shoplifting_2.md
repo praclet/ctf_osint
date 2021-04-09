@@ -8,10 +8,10 @@ Points: 120
 Requirements: shoplifter_shoplifting_1  
 
 ## Message
-
 Thanks to the info about the phone you provided,  
-Sadly the one that we were intrested in has already been receptionned by someone else.  
-We went to the lost objects at the train station the SAME DAY the object got returned, and tricked the receptionnist into giving us the name of the personn that got his hand on the mobile phone we are looking for.  
+Sadly as you may have seen, someone has already receptionned it.  
+We went to the lost objects at the train station the SAME DAY the object got returned.  
+We tricked the receptionnist into giving us the name of the personn that got his hand on the mobile phone we are looking for.  
 "James Wang"  
 Wont be an easy task... or will it?  
 Maybe you can try to recon and do some dork on social media ?  
@@ -19,8 +19,8 @@ Maybe you can try to recon and do some dork on social media ?
 ps: (don't rely too much on "James Wang" to find James Wang)
 
 ## Solution
-Twitter advanced search strasbourg in february 2021 and look for a James Wang.  
-He says the flag is hidden among his profile.  
+Twitter advanced search strasbourg the 16th february 2021 and look for a James Wang.  
+He says in his bio that the flag is hidden among his profile.  
 Found the flag which is split in 4 part  
 1.`72612d4a76ddd7e0` //in a tweet  
 2.`1f7ba41e61a8b633` //in a reply to a tweet  

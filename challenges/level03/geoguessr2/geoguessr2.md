@@ -11,10 +11,10 @@ Requirements: geoguessr
 
 One of our contributor went to the small town where the video is taken.  
 Below the structure shown in the video, pinned to one of the pillar, a picture was found.  
-The sea harmed it a bit but our AI managed to upscale it a lot.  
+The sea harmed it a bit but our awesome AI managed to upscale it a lot.  
 It seems like this investigation is turning itslef more and more into a treasure hunt. Hope we won't find anything crazy...  
 Anyway, once again, your job is to find the location of this picture, we are sure something relevant will appear if you succeed.  
-One of our contributor recognize some part of the photo and told us it was probably taken in western europe, probably in the alpes maybe that will help you.  
+One of our contributor recognize some part of the photo and told us it was probably taken in western europe, probably in the alpes.  
 
 To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{chairlift_name}`.
 
@@ -34,12 +34,12 @@ We name things the way they look like to us. (query in French)
 "It is often difficult to wash them" (query in French)
 
 ## Solution
-Photo is taken towards east, query most known mountain range like the Alps, if you enumerate the mountains you will find the "Dents du Midi".  
+Photo is taken towards east, query most known mountain in the Alps, if you enumerate the mountains you will find the "Dents du Midi".  
 Try to find this location in google earth.  
 ![photo_highlight](solution1.png)  
-There arent many place like this in google earth in the west side of the "Dents du Midi", maybe 1 or too location may get your attention  
+There arent many place like this in google earth in the west side of the "Dents du Midi".  
 ![photo_highlight_earth](solution2.png)  
-You see 3 chairlift that goes as high as the photo on the map, grab photo of the 3 and see that the right one is Chavanette  
+You see 3 chairlift that goes as high as the photo on the map, grab photo of the 3 and see that the right one is Chavanette.  
 
 echo -n "Chavanette" | sha256sum  
 916154debfb1a3c932e9fa501d2eff53fc3ab6054933a53237e7e35fe9f60a2b  
