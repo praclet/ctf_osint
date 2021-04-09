@@ -3,7 +3,7 @@
 Category: Warm up  
 Tag:  
 Type: Automatic  
-Flag: `APT{Réfléchissez, par pitié, par Odin}`  
+Flag: `APT{f80a06a9927de92c26874fc4d87b3ca2f0f1c6805ef13db274b65f95cc61c53e}`  
 Points: 0
 
 ## Message
