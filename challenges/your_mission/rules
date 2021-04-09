@@ -1,25 +1,41 @@
-<div class="row">
-    <div class="col-md-6 offset-md-3">
-      <p class="text-center" style="font-size:40px">
-        <b>Rules</b>
-      </p>
-      <h3 class="text-center">Code of conduct</h3>
-      <br>
-        <p class="text-center">
-	        <ul>
-	          <li>Do not target the CTF infrastructure, other players or admins. <b>If you are found to fuzz/bruteforce/attack the platform, your team will be disqualified</b></li>
-              <li>If you leak flags, your team will be disqualified</li>
-              <li>The first part of the flag is Réfléchissez</li>
-	          <li>Do not <b>attack/modify/comment social media accounts</b> created for the CTF</li>
-              <li>The second part of the flag starts by and ends by a comma (keep the commas) , par pitié,</li>
-              <li>Be excellent to each other</li>
-              <li>Have fun!</li>
-	        </ul>
-        <h3 class="text-center">FAQ</h3>
-        <p class="text-center">
-	        <ul>
-              <li>Teams are limited to a maximum of <b>3 members</b></li>
-              <li>You can unlock hints but hints will make you loose points</li>
-              <li>And the last part of the flag is par Odin</li>
-    </div>
-</div>
+<p class="text-center" style="font-size:40px">
+	<b>Rules</b>
+</p>
+<br>
+<h3 class="text-center">Flag format</h3>
+<br>
+
+To solve challenges, you will submit flags on the platform in the following format: `APT{sha256sum(flag)}`
+<br>
+
+For example, if My_Flag is the flag:
+
+```
+echo -n My_Flag | sha256sum
+f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+```
+
+Submit the flag as follows: `APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
+
+Answer is case-sensitive and accented letters are required (for example, é, à).
+
+<br>
+<h3 class="text-center">Code of conduct</h3>
+<br>
+<p class="text-center">
+<ul>
+  <li>Do not target the CTF infrastructure, other players or admins. <b>If you are found to fuzz/bruteforce/attack the platform, your team will be disqualified</b></li>
+  <li>If you leak flags, your team will be disqualified</li>
+  <li>The first part of the flag is Réfléchissez</li>
+  <li>Do not <b>attack/modify/comment social media accounts</b> created for the CTF</li>
+  <li>The second part of the flag starts by and ends by a comma (keep the commas) , par pitié,</li>
+  <li>Be excellent to each other</li>
+  <li>Have fun!</li>
+</ul>
+<h3 class="text-center">FAQ</h3>
+<p class="text-center">
+<ul>
+  <li>Teams are limited to a maximum of <b>3 members</b></li>
+  <li>You can unlock hints but hints will make you loose points</li>
+  <li>And the last part of the flag is par Odin</li>
+</ul>
