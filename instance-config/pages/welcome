@@ -1,0 +1,48 @@
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <p class="text-center" style="font-size:40px">
+        	<b>Welcome Agents!</b>
+        </p>
+        <br>
+        <p class="text-center">
+            Today is your first day at the APT agency and a secret mission has already been handed over to you.
+            <br><br>
+            Go to the Challenges page to discover your mission.
+        </p>
+        <br>
+        <h4 class="text-center">Project</h4>
+        <p class="text-center">
+	      This project is a CTF created by APT42.
+          <br><br>
+          It runs as a Capture the Flag format where students have to collect flags to validate levels. Learn OSINT basics by solving challenges that focus on GEOINT, IMINT, SOCMINT and investigative journalism techniques.
+        </p>
+        <br>
+        <h4 class="text-center">Times</h4>
+        <p class="text-center" style="font-size: 18px;">
+        	Start Time: 08/03/2021 at 10:00 Central European Time (CET)
+            <br>
+            End Time: 10/03/2021 at 18:00 Central European Time (CET)
+        </p>
+        <br>
+        <h4 class="text-center">Acknowledgments</h4>
+        <p class="text-center">
+        	Contributors:
+            <br>
+            - avan-pra
+            <br>
+            - mboivin
+            <br>
+            - wandre
+            <br>
+            Beta-testers:
+            <br>
+            - baz
+            <br>
+        </p>
+        <br>
+        <h4 class="text-center">Need help?</h4>
+        <p class="text-center">
+        	If you need to contact the organisation to raise an issue or any other reason, feel free to DM the admins.
+        </p>
+    </div>
+</div>
