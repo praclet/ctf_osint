@@ -9,7 +9,7 @@ Requirements: geoguessr
 
 ## Message
 We went talking to the chairlift / ski tracker guys and they told us that someone came with a strange request recently.  
-If anybody from APT42 came in this place they to tell them to check what happened in Strasbourg the 16th february in 2021.  
+If anybody from APT42 came in this place they had to tell them to check what happened in Strasbourg the 16th february in 2021.  
 So that's what we did !  
 We got the videosurveillance of the train station;  
 Someone strange caught our attention, we got him leaving a phone on the ground.  
