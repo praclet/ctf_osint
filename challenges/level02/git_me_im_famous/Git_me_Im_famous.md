@@ -10,13 +10,13 @@ Requirements: You know Google?, R.D.V, Ok user
 ## Message
 
 Good job, you found the Github account of the hacker!  
-Recon his Github repositories, look for anything that look suspicious, maybe you can find something interesting...  
+Recon his Github repositories, look for anything suspicious, maybe you can find something interesting...  
 
 To solve this challenge, submit the flag you will find along the challenge.
 
 ## Solution
 
-> Aller sur le page https://github.com/0x927 
+> Aller sur la page https://github.com/0x927 
 
 > Chercher dans la liste des repos fork le repos => https://github.com/0x927/resources 
 
