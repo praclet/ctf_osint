@@ -5,7 +5,7 @@
 <h3 class="text-center">Flag format</h3>
 <br>
 
-To solve challenges, you will submit flags on the platform in the following format: `APT{sha256sum(flag)}`
+To solve challenges, (if not indicated otherwise by the subject) you will submit flags on the platform in the following format: `APT{sha256sum(flag)}`
 <br>
 
 For example, if My_Flag is the flag:
