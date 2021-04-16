@@ -14,7 +14,7 @@ TODO
 
 ## Solution
 
- Mount the file this is an usb key.
+ Mount the file this is an usb key. (sudo mount -t auto -o loop file.bin /media/usb_mount_point)
  Read the message.
 
 Catch me if you can (well you can't) => APT{9fbf261b62c1d7c00db73afb81dd97fdf20b3442e36e338cb9359b856a03bdc8} => 9  
