@@ -3,7 +3,7 @@
 Category: Level01  
 Tag: SOCMINT  
 Type: Automatic  
-Flag: `APT{ffc678b07a0da80d8749d8ee29436c3fb0c092ceb31306c3b531813c8b98b260}`  
+Flag: `APT{4d0aa736a8bcd9c8557945f1d9d85600d8e2456be079ca17fe6073cd887a41c1}`  
 Points: 35  
 Requirements: Palmistry
 
@@ -15,9 +15,9 @@ Requirements: Palmistry
 "You won't like it, an e-mail, Edward Snowcrash's e-mail, Edward disapeared from all radar, is he a traitor ? Who knows. As of now i need you to find his last location. Some intel suggest he went on holidays, here is his e-mail: edwardsnowcrash@gmail.com  
 We need Edward to answer his supposedly betrayal. Good luck agent."
 
-To solve this challenge, submit the SHA-256 hash of the flag.
+To solve this challenge, submit the SHA-256 hash of the location where Edward went on holidays.
 
-For example, if My_Flag is the flag:
+For example, if My_Flag is the location:
 ```
 echo -n My_Flag | sha256sum
 f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
@@ -39,7 +39,9 @@ The are great writeup on how to exploit it, especially one from a notorious twit
 2. Check account contribution to gmaps, use https://www.google.com/maps/contrib/ + ID (in this case the link will be https://www.google.com/maps/contrib/112096779393739237909)  
 ![contribution_gmaps](contribution_gmaps.png)
 
-3. Grab the photo and get the exif data, the flag will appear in clear sight  
-![exif_data_on_image](exif_data_on_image.png)
-
-`APT{w3ll_n0w_yOu_d0}`
+3. Check the location of the place: Sharm El-Naga
+```
+echo -n "Sharm El-Naga" | sha256sum
+4d0aa736a8bcd9c8557945f1d9d85600d8e2456be079ca17fe6073cd887a41c1
+```
+APT{4d0aa736a8bcd9c8557945f1d9d85600d8e2456be079ca17fe6073cd887a41c1}
