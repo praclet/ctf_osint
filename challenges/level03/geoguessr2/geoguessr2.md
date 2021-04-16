@@ -9,12 +9,12 @@ Requirements: geoguessr
 
 ## Message
 
-One of our contributor went to the small town where the video is taken.  
+One of our contributors went to the small town where the video was taken.  
 Below the structure shown in the video, pinned to one of the pillar, a picture was found.  
-The sea harmed it a bit but our awesome AI managed to upscale it a lot.  
-It seems like this investigation is turning itslef more and more into a treasure hunt. Hope we won't find anything crazy...  
+The sea harmed it a bit but our awesome AI managed to upscale it by a lot.  
+It seems like this investigation looks more and more like a treasure hunt. Hope we won't find anything crazy...  
 Anyway, once again, your job is to find the location of this picture, we are sure something relevant will appear if you succeed.  
-One of our contributor recognize some part of the photo and told us it was probably taken in western europe, probably in the alpes.  
+One of our contributors recognized part of the picture and told us it was probably taken in Western Europe, probably in the Alps.  
 
 To solve this challenge, submit the SHA-256 hash of the chairlift name.
 
@@ -28,7 +28,7 @@ Submit the flag as follows:
 `APT{94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9}`
 
 ## Hint
-Mountain in the background is a little famous, try to enumerate.  
+The mountain in the background is a little famous, try to enumerate.  
 We name things the way they look like to us. (query in French)  
 
 "It is often difficult to wash them" (query in French)
@@ -37,9 +37,9 @@ We name things the way they look like to us. (query in French)
 Photo is taken towards east, query most known mountain in the Alps, if you enumerate the mountains you will find the "Dents du Midi".  
 Try to find this location in google earth.  
 ![photo_highlight](solution1.png)  
-There arent many place like this in google earth in the west side of the "Dents du Midi".  
+There arent many places like this in google earth in the west side of the "Dents du Midi".  
 ![photo_highlight_earth](solution2.png)  
-You see 3 chairlift that goes as high as the photo on the map, grab photo of the 3 and see that the right one is Chavanette.  
+You see three chairlifts that go high enough on the map, grab pictures of the three and see that the right one is Chavanette.  
 
 echo -n "Chavanette" | sha256sum  
 916154debfb1a3c932e9fa501d2eff53fc3ab6054933a53237e7e35fe9f60a2b  
