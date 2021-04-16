@@ -16,11 +16,11 @@ You found James Wang. You got the phone back. Congratulations, Agent! Everyone i
 
 What was that noise? Seems like the phone just rang and we received a text message.
 
-*"Clap clap. You've done well so far just because I let you so! I challenged you on purpose. Yeah. All this little game was all made up indeed.  
+*"Clap clap. You've done well so far, but just because I allowed you to! I challenged you on purpose. Yeah. All this little game was all made up indeed.  
 Let's see if you are as skilled as you pretend to be. I left something for you in this phone: the GPS data of my daily walk. I enjoy my daily walk a lot. Can you find the location of my hacker headquarters? It has a very special name.  
-Find me and I promise I'll explain you why I'm so angry towards 42."*
+Find me and I promise I'll explain to you why I'm so angry towards 42."*
 
-In a hurry, you download the dataset and start to look for the headquarters'location.
+In a hurry, you download the dataset and start to look for the headquarters' location.
 
 To solve this challenge, submit the SHA-256 hash of the location's name.
 
