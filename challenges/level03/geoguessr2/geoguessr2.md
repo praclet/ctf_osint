@@ -16,7 +16,7 @@ It seems like this investigation is turning itslef more and more into a treasure
 Anyway, once again, your job is to find the location of this picture, we are sure something relevant will appear if you succeed.  
 One of our contributor recognize some part of the photo and told us it was probably taken in western europe, probably in the alpes.  
 
-To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{chairlift_name}`.
+To solve this challenge, submit the SHA-256 hash of the chairlift name.
 
 For example, if "Pengelstein 1" is the chairlift name (see right side of the photo):
 ```

@@ -18,6 +18,13 @@ Maybe you can try to recon and do some dork on social media ?
 
 ps: (don't rely too much on "James Wang" to find James Wang)
 
+To solve this challenge, submit the concatenation of the 4 flags you will find along the challenge.  
+
+For example if flag1, 2, 3 and 4 are respectively: 15e69bf1bfc1e581, 18ce086e545adc3f, e2a03d9ee6866542 and baf87e83a88617a7  
+
+Submit the flag as follows:  
+`APT{15e69bf1bfc1e58118ce086e545adc3fe2a03d9ee6866542baf87e83a88617a7}`
+
 ## Solution
 Twitter advanced search strasbourg the 16th february 2021 and look for a James Wang.  
 He says in his bio that the flag is hidden among his profile.  

@@ -18,7 +18,7 @@ First things first, we need you to find out where is the video taken.
 
 ps: If that can help you (it won't), yes, it's located in France.  
 
-To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{town_where_the_video_is_taken}`.  
+To solve this challenge, submit the SHA-256 hash of the town where the video is taken.  
 
 For example, if "Saint-Jean-de-Luz" is the town the video has been taken in:
 ```
