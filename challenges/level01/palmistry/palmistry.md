@@ -11,7 +11,7 @@ Requirements: Catch me if you can
 
 *bip bip* Your phone is ringing, the field agent is calling you again!
 
-We just arrived at the location you manage to pinpoint nearby Station F. Sadly the hacker was already gone, lucky us thanks to the heat of his coffee he probably left this place about 30min ago. Not only this, but we manage to get his fingerprint from his coffee cup he left in the place ! I linked you an archived which contains fingerprints from numerous know hacker, maybe he is one of them.
+We just arrived at the location you manage to pinpoint nearby Station F. Sadly the hacker was already gone. We checked his coffee's temperature: lucky us, he probably left this place about 30min ago. Not only this, but we managed to get a fingerprint from the cup he left in the place! I linked you an archive which contains fingerprints from numerous known hackers, maybe he is one of them.
 
 To solve this challenge, submit the SHA-256 hash of the filename from the archive which correspond to the hacker fingerprints.
 
@@ -26,6 +26,6 @@ Submit the flag as follows:
 
 ## Solution
 
-Use a tool like verifinger to identify the right fingerprint
+Use a tool like verifinger to identify the right fingerprint.
 
 ![verifinger](verifinger.png)
