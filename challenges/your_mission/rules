@@ -5,7 +5,7 @@
 <h3 class="text-center">Flag format</h3>
 <br>
 
-To solve challenges, (if not indicated otherwise by the subject) you will submit flags on the platform in the following format: `APT{sha256sum(flag)}`
+To solve challenges, unless indicated otherwise by the subject, you will submit flags on the platform in the following format: `APT{sha256sum(flag)}`
 <br>
 
 For example, if My_Flag is the flag:
@@ -17,7 +17,7 @@ f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
 
 Submit the flag as follows: `APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
-Answer is case-sensitive and accented letters are required (for example, é, à).
+Answer is case-sensitive and accented letters matter (for example, é, à).
 
 ps: be smart, if you already have a hash, do not hash it again :p
 
