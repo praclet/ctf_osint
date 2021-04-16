@@ -16,7 +16,7 @@ However it seems like his machine to generate tickets isnt working properly, the
 Find out which one and sumbit it, maybe it will help to get the hacker's location in a way...  
 You then receive a sms which tells you that the documentation may be found during your other current task.  
 
-To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{ticket_value}`.
+To solve this challenge, submit the SHA-256 hash of the flag as follows: `APT{sha256(ticket_value)}`.
 
 For example, if the ticket number "0123-4567-89AB-CDEF" is the valid ticket:
 ```
