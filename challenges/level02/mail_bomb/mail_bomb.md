@@ -14,7 +14,7 @@ You just received an email from the field agent. Let's open it!
 ```
 From: Diana Arkly <darkly@aptagency.com>
 
-Agent, congratulations for finding the password! Thanks to it, we have been able to unzip the archive. Have you seen all this data?  
+Agent, congratulations for finding the password! Thanks to it, you are now able to unzip the archive. Have you seen all this data?  
 Too bad most of it are spam-like e-mail. Maybe with a secret trick of yours, you can find something interesting?  
 Like an e-mail addressed to Edward for example?
 ```
