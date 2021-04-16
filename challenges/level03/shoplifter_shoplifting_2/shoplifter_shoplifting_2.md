@@ -8,19 +8,19 @@ Points: 120
 Requirements: shoplifter_shoplifting_1  
 
 ## Message
-Thanks to the info about the phone you provided,  
-Sadly as you may have seen, someone has already receptionned it.  
-We went to the lost objects at the train station the SAME DAY the object got returned.  
-We tricked the receptionnist into giving us the name of the personn that got his hand on the mobile phone we are looking for.  
-"James Wang"  
-Wont be an easy task... or will it?  
-Maybe you can try to recon and do some dork on social media ?  
+Thanks for the info you provided about the phone.  
+Sadly, as you may have seen, someone has already retrieved it.  
+We went to the the train station's lost and found office the SAME DAY the object got returned.  
+We tricked the receptionnist into giving us the name of the personn that got his hand on it.  
+The name is... "James Wang".  
+Won't be an easy task... or is it?  
+Maybe you can try to recon and do some dorking on social media?  
 
-ps: (don't rely too much on "James Wang" to find James Wang)
+P.S. Don't rely too much on "James Wang" to find James Wang.
 
 To solve this challenge, submit the concatenation of the 4 flags you will find along the challenge.  
 
-For example if flag1, 2, 3 and 4 are respectively: 15e69bf1bfc1e581, 18ce086e545adc3f, e2a03d9ee6866542 and baf87e83a88617a7  
+For example if flag 1, 2, 3 and 4 are respectively: 15e69bf1bfc1e581, 18ce086e545adc3f, e2a03d9ee6866542 and baf87e83a88617a7  
 
 Submit the flag as follows:  
 `APT{15e69bf1bfc1e58118ce086e545adc3fe2a03d9ee6866542baf87e83a88617a7}`
