@@ -9,9 +9,9 @@ Requirements: follow me
 
 ## Message
 
-Upon meeting the barman of the black dog pub, you are told that wandre is indeed currently in the bar  
-Too bad he took refuge in the back store, a padlock on the door is blocking us from arresting him.  
-As usual he left something behind, a usb that contains a weird file, can you work with this ?  
+Upon meeting the barman of the black dog pub, you are told that wandre is indeed currently in the bar.  
+Too bad he took refuge in the back store, a padlock on the door is preneting us from arresting him.  
+As usual, he left something behind, a usb stick containing a weird file, can you work with this?  
 
 To solve this challenge, submit the flag you will find along the challenge.  
 
