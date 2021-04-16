@@ -13,10 +13,10 @@ Good job! You discovered what seems to be the Twitter account of 'le Grand Archi
 
 To solve this challenge, submit the SHA-256 hash of the account URL without `https://` and without the terminating slash.
 
-For example, if foo.com is the flag:
+For example, if foo.com/test is the flag:
 ```
-echo -n foo.com | sha256sum
-f29b6dda0984901faa692dc84e8a7392c9bd6c558d1cbdcd5ed7b753bdfdfad6
+echo -n foo.com/test | sha256sum
+124817c7b2d51964dd18af0cf63a4c2a4719ae03a8cce83bba6b6b71aac1ec1b
 ```
 
 Submit the flag as follows:  
