@@ -9,8 +9,8 @@ Requirements: Mail Bomb
 
 ## Message
 
-Nice job finding out the e-mail we were looking for.  
-An attachment in the e-mail attracted our minds.  
+Nice job finding out the email we were looking for.  
+An attachment caught our attention.  
 Be careful if oppening this document though, the data it contains may harm you.  
 
 To solve this challenge, submit the flag you will find along the challenge.
