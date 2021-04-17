@@ -12,10 +12,11 @@ Requirements: wandering wandre
 Congratulations! The field agent is calling you again:
 
 "Hey! We sent the message you found to our profiler. It will be very useful to understand the motives of 'le Grand Architecte du Tout'.  
-They managed to enter Station F thanks to their social engineering skills. I hurried to drive there but unfortunately, I couldn't follow them.  
+He managed to enter Station F thanks to his social engineering skills. I hurried to drive there but unfortunately, I couldn't follow him.  
 Edward Snowcrash said he managed to hack Station F camera systems. According to him, the hacker is having coffee in a compagny workspace. Ed sent us a picture of a place located at the left of this workspace. The picture is truncated again and I find this suspicious.  
-The time is short and the Special Operation Forces are on the way. From the agency, with the help of your laptop, from the attached picture, can you find where the hacker is having coffee?  
-We will communicate this name to the Special Operation Forces as soon as they arrive so they can arrest them."
+The time is short and the Special Operation Forces are on the way.  
+From the agency, with the help of your laptop, from the attached picture, can you find where the hacker is having coffee?  
+We will communicate his name to the Special Operation Forces as soon as they arrive so they can arrest him."  
 
 <p align="center">
   <img src="catchme_hint.png" alt="Gmaps street" width="700" />
