@@ -27,10 +27,10 @@ f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
 Submit the flag as follows:  
 `APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
-## Hint (qui coute 0 pts)
+## Hint (cost: 0 pts)
 
 Have you ever heard of google ID ? Have you grabed it yet ?  
-The are great writeups on how to exploit it, including one from a notorious twitter osint expert :D  
+There are great writeups on how to exploit it, including one from a notorious twitter osint expert :D  
 
 ## Solution
 
