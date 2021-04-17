@@ -27,7 +27,7 @@ echo -n "Pengelstein 1" | sha256sum
 Submit the flag as follows:  
 `APT{94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9}`
 
-## Hint
+## Hint (cost: 35 pts)
 The mountain in the background is a little famous, try to enumerate.  
 We name things the way they look like to us. (query in French)  
 
