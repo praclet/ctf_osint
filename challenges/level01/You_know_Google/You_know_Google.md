@@ -4,7 +4,7 @@ Category: Level01
 Tag: SOCMINT  
 Type: Automatic  
 Flag: `APT{4d0aa736a8bcd9c8557945f1d9d85600d8e2456be079ca17fe6073cd887a41c1}`  
-Points: 40  
+Points: 45  
 Requirements: Palmistry
 
 ## Message
