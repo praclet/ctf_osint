@@ -10,14 +10,14 @@ Requirements: follow me
 ## Message
 
 Upon meeting the barman of the black dog pub, you are told that wandre is indeed currently in the bar.  
-Too bad he took refuge in the back store, a padlock on the door is preneting us from arresting him.  
+Too bad he took refuge in the back store, a padlock on the door is preventing us from arresting him.  
 As usual, he left something behind, a usb stick containing a weird file, can you work with this?  
 
 To solve this challenge, submit the flag you will find along the challenge.  
 
 ## Solution
 
- Mount the file this is an usb key. (sudo mount -t auto -o loop file.bin /media/usb_mount_point)
+ Mount the file as an usb key. (sudo mount -t auto -o loop file.bin /media/usb_mount_point)
  Read the message.
 
 Catch me if you can (well you can't) => APT{9fbf261b62c1d7c00db73afb81dd97fdf20b3442e36e338cb9359b856a03bdc8} => 9  
