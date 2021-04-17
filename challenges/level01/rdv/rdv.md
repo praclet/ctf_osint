@@ -4,7 +4,7 @@ Category: Level01
 Tag: SOCMINT/GEOINT  
 Type: Automatic  
 Flag: `APT{33297c033fe14e8788ec59f27739665237ca5be65858404c4d628f6a8641e6dd}`  
-Points: 30
+Points: 40
 Requirements: Follow the white rabbit
 
 ## Message
