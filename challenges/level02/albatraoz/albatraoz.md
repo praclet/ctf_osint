@@ -11,8 +11,8 @@ Requirements: You know Google?, R.D.V, Ok user
 
 Good job agent, Electrolab was indeed the place where wandre and Catnity used to meet up.  
 Too bad they didnt left the place untouched, all the equipment is gone.  
-We managed to get our hands on a usb stick hidden inside Electrolab's post box;  
-The usb key contains a password protected archive, however, we didnt manage to bruteforce the password.  
+We managed to get our hands on a usb stick hidden inside Electrolab's post box.  
+That key contains a password protected archive, however, we haven' been able to bruteforce the password.  
 There seems to be another file can you work with, agent?
 
 To solve this challenge, submit the SHA-256 hash of the archive_password. Pay attention to capitals.
