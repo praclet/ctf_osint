@@ -4,7 +4,7 @@ Category: Level01
 Tag: SOCMINT  
 Type: Automatic  
 Flag: `APT{8f5475c77714a350ff6180d81edb88ab187edf12d0ad20413f68858772551328}`  
-Points: 30
+Points: 20
 Requirements: Let the stalk begin
 
 ## Message

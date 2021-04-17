@@ -4,7 +4,7 @@ Category: Level02
 Tag: Steganography  
 Type: Automatic  
 Flag: `APT{c3094e458a5adf2c2832ee22f71100e2004fdb8873c3c1331a7b3a7e58ab82fb}`  
-Points: 40
+Points: 35
 Requirements: You know Google?, R.D.V, Ok user
 
 ## Message

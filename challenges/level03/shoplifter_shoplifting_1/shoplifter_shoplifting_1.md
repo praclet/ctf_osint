@@ -4,7 +4,7 @@ Category: Level03
 Tag: OSINT  
 Type: Automatic  
 Flag: `APT{23c16fb3fadc2941eb3ccaf4166775ff0b786c4ac12b42ece5c8e773b35a35f2}`  
-Points: 100  
+Points: 65  
 Requirements: geoguessr  
 
 ## Message

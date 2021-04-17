@@ -5,7 +5,7 @@ Tag: GEOINT
 Type: Automatic  
 Flag: `APT{2f00d94e6cfcf73f0a112f88d4766fbdc3364a653701c123e5065c1b1367a377}`  
 Or flag: `APT{ee4da21057fd49a98e61c043937a845753a7c3953c7c98ad52d68b40e03a2db1}`  
-Points: 80
+Points: 85
 Requirements: intercepted
 
 ## Message
