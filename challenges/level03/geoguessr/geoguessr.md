@@ -29,11 +29,11 @@ df198b8313a00d11c0551672477a5438b80a1518c62f97c57e2d853b0ce523c1
 Submit the flag as follows:  
 `APT{df198b8313a00d11c0551672477a5438b80a1518c62f97c57e2d853b0ce523c1}`
 
-## Hint
+## Hint (Cost: 20 pts)
 "it is what it is", but maybe there's a different term to name it, look for synonyms maybe ?  
 
 ## Solution
-When looking in the video you will be able to see something which seems like a "ponton".  
+When looking at the video you will be able to see something which seems like a "ponton".  
 Upon looking up on google, not even half the pictures that show up will look like what you are looking for.  
 Its because the term you are looking for isn't "ponton" but "estacade", upon googling it you will rapidily find the one in the video: "Le Havre estacade".  
 When you google it, the real location is not "Le Havre" but "Sainte-Adresse".  
