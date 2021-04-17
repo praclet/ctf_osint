@@ -12,8 +12,8 @@ Requirements: Your Mission
 Your phone is ringing. The call is from a field agent. She has an urgent mission for you:
 
 "Hi!  
-One of my source, Edward Snowcrash, told me that 'le Grand Architecte du Tout' was lurking around Station F.  
-Ed saw the hacker writing a message under a firemen sign and took a picture, but unfortunately the picture seems truncated.  
+One of my sources, Edward Snowcrash, told me that 'le Grand Architecte du Tout' was lurking around Station F.  
+Ed saw the hacker write a message under a firemen sign and took a picture, but unfortunately the picture seems truncated.  
 Can you find the whole message?"
 
 <p align="center">
