@@ -4,7 +4,7 @@ Category: Level02
 Tag: Forensics  
 Type: Automatic  
 Flag: `APT{77b16ea5b9d1da0eec772831111afd6f9ec1e2c370c339ef3f116874a1cc586e}`  
-Points: 200
+Points: 70
 Requirements: Mail Bomb
 
 ## Message
@@ -15,8 +15,8 @@ Be careful if oppening this document though, the data it contains may harm you.
 
 To solve this challenge, submit the flag you will find along the challenge.
 
-## Hint (Cost: 190 pts)
- - Verryhiden is a nice feature in excel. With BIFF and XLM Macro we can do a lot of things...
+## Hint (Cost: 60 pts)
+ - Verryhiden is a nice feature in excel. With BIFF and XLM Macro we can do lots of things...
 
 ## Solution
  
