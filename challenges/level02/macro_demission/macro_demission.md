@@ -15,7 +15,7 @@ Be careful if oppening this document though, the data it contains may harm you.
 
 To solve this challenge, submit the flag you will find along the challenge.
 
-Hint qui coûte 190 pts
+## Hint (Cost: 190 pts)
  - Verryhiden is a nice feature in excel. With BIFF and XLM Macro we can do a lot of things...
 
 ## Solution
