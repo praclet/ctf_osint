@@ -11,9 +11,9 @@ Requirements: shoplifter_shoplifting_1
 Thanks for the info you provided about the phone.  
 Sadly, as you may have seen, someone has already retrieved it.  
 We went to the the train station's lost and found office the SAME DAY the object got returned.  
-We tricked the receptionnist into giving us the name of the personn that got his hand on it.  
+We tricked the receptionnist into giving us the name of the person that got his hand on it.  
 The name is... "James Wang".  
-Won't be an easy task... or is it?  
+Not an easy task... or is it?  
 Maybe you can try to recon and do some dorking on social media?  
 
 P.S. Don't rely too much on "James Wang" to find James Wang.
@@ -27,7 +27,7 @@ Submit the flag as follows:
 
 ## Solution
 Twitter advanced search strasbourg the 16th february 2021 and look for a James Wang.  
-He says in his bio that the flag is hidden among his profile.  
+He says in his bio that the flag is hidden inside his profile.  
 Found the flag which is split in 4 part  
 1.`72612d4a76ddd7e0` //in a tweet  
 2.`1f7ba41e61a8b633` //in a reply to a tweet  
