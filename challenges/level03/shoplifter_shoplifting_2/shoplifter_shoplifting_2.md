@@ -23,7 +23,7 @@ For example if flag 1, 2, 3 and 4 are respectively: 15e69bf1bfc1e581, 18ce086e54
 Submit the flag as follows:  
 `APT{15e69bf1bfc1e58118ce086e545adc3fe2a03d9ee6866542baf87e83a88617a7}`
 
-## Hint (Cost: 20 pts)
+## Hint (Cost: 50 pts)
 Don't rely too much on "James Wang" to find James Wang.
 Keep in mind his link with the phone.  
 
