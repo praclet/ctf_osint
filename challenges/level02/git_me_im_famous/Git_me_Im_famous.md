@@ -16,12 +16,10 @@ To solve this challenge, submit the flag you will find along the challenge.
 
 ## Solution
 
-> Aller sur la page https://github.com/0x927 
+> Go to https://github.com/0x927 
 
-> Chercher dans la liste des repos fork le repos => https://github.com/0x927/resources 
+> Find this in the list of forked repositories => https://github.com/0x927/resources 
 
-> Aller à la source de ce fork dans les commits et regarder les commentaires.
+> Look at the list of commits. Some have comments.
  
-> Trouver => https://github.com/apt-42/resources/commit/ccb48a6ec53a781bf76ccbaa8945f770db0f4995 
-
-> Copier le flag.
+> Find the flag in a picture => https://github.com/apt-42/resources/commit/ccb48a6ec53a781bf76ccbaa8945f770db0f4995 
