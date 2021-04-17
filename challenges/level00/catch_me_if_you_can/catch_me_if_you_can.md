@@ -12,7 +12,7 @@ Requirements: wandering wandre
 Congratulations! The field agent is calling you again:
 
 "Hey!  
-We asked the staff of school 42 to search in their database. It happens the hacker is a former student called 'wandre'.  
+We asked the staff of 42 to search in their database. It happens the hacker is a former student called 'wandre'.  
 We also sent the message you found to our profiler. It will be very useful to understand the motives of wandre aka 'le Grand Architecte du Tout'.  
 In the meantime, he managed to enter Station F thanks to his social engineering skills. I hurried to drive there but unfortunately, I couldn't follow him inside.  
 Edward Snowcrash managed to hack Station F camera systems. According to him, the hacker is having coffee in a company workspace. Ed sent us a picture of a place located at the left of this workspace. The picture is truncated again and I find this suspicious.  

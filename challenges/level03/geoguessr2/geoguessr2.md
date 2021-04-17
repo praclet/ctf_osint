@@ -28,10 +28,10 @@ Submit the flag as follows:
 `APT{94f1755fd09702dfade94d2e848150142c95bbbce4e866d754bb79d93d0a2fe9}`
 
 ## Hint (cost: 35 pts)
-The mountain in the background is a little famous, try to enumerate.  
+- The mountain in the background is a little famous, try to enumerate.  
 We name things the way they look like to us. (query in French)  
 
-"It is often difficult to wash them" (query in French)
+- "It is often difficult to wash them" (query in French)
 
 ## Solution
 Photo is taken towards east, query most known mountain in the Alps, if you enumerate the mountains you will find the "Dents du Midi".  
