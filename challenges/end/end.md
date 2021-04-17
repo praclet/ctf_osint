@@ -4,9 +4,12 @@
 
 Congratulations Agent!
 
-TODO Vous avez déjoué les plans bla bla bla
+Thanks to your meticulous work, 42 school should be safe from 'le Grand Architecte du Tout' and his accomplices.
 
-Let's see!
+He’s surrounded… Just a few more minutes, and we’ll get through that door and arrest him for good. I’m sure he has no more tricks up his sleeve, right?
+
+Anyway, as soon as you found that weird dog meme, we received an encrypted message.
+Seems like our analysts broke the encryption just now, let's see...
 
 "Bravo. Bravo to you. You did swim well. It's time for the reward!
 
