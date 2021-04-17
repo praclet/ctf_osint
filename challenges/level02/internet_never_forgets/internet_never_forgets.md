@@ -27,12 +27,12 @@ Submit the flag as follows:
 
 ## Solution
 
-> Aller sur le page https://ukrainian-giants.000webhostapp.com/ 
+> Go to https://ukrainian-giants.000webhostapp.com/ 
 
-> Trouver un lien mort sur la page principal => https://ukrainian-giants.000webhostapp.com/dogs
+> Find a dead link on the main page => https://ukrainian-giants.000webhostapp.com/dogs
 
-> Aller sur waybackmachine => https://web.archive.org/web/20210303121637/https://ukrainian-giants.000webhostapp.com/dogs
+> Check waybackmachine => https://web.archive.org/web/20210303121637/https://ukrainian-giants.000webhostapp.com/dogs
  
-> Regarder la source pour trouver => W4y_b4rK_M4ch1n3_1s_n1c3 => (sha256 == 3ae38cdf2192d91de5e972a8988b0a5b74b576c81df46447256b716b8d61c31e 
+> Look at the source => W4y_b4rK_M4ch1n3_1s_n1c3 => (sha256 == 3ae38cdf2192d91de5e972a8988b0a5b74b576c81df46447256b716b8d61c31e 
 
 > APT{3ae38cdf2192d91de5e972a8988b0a5b74b576c81df46447256b716b8d61c31e}
