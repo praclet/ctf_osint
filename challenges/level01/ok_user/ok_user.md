@@ -9,7 +9,9 @@ Requirements: Follow the white rabbit
 
 ## Message
 
-Good job! You discovered what seems to be the Twitter account of 'le Grand Architecte du Tout'. We need more information to identify them. We asked school 42 staff to start searching in their database. The hacker could be a former student. What do you think? Can you check if they have an account on any code hosting platform?
+Good job! You discovered what seems to be the Twitter account of 'le Grand Architecte du Tout'. We need more information to identify him.
+
+Since wandre was a student at 42, he may have uploaded his code somewhere. What do you think? Can you check if he has an account on any code hosting platform?
 
 To solve this challenge, submit the SHA-256 hash of the account URL without `https://` and without the terminating slash.
 

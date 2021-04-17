@@ -4,13 +4,18 @@ Category: Level00
 Tag: Forensics  
 Type: Automatic  
 Flag: `APT{e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9}`  
-Points: 40  
+Points: 30  
 Requirements: Catch me if you can
 
 ## Message
 
-Unfortunately, the Special Operation Forces couldn't catch the hacker! However, they dropped something while escaping Station F. We retrieved this sensitive file but we were not able to extract any useful data from it.  
+Unfortunately, the Special Operation Forces couldn't catch the hacker! However, they dropped something while escaping Station F. We retrieved this sensitive file but we were not able to extract any useful data from it.
+
 Can you help us to find any clue that might lead us to the hacker?
+
+You're now in charge of investigating this evidence:
+
+To solve this challenge, submit the SHA-256 hash of the flag.
 
 For example, if My_Flag is the flag:
 ```
@@ -20,6 +25,10 @@ f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
 
 Submit the flag as follows:  
 `APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
+
+## Hint (cost: 10 pts)
+
+![dont-panic.png](dont-panic.png)
 
 ## Solution
 

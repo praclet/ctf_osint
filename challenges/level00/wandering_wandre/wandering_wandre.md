@@ -31,6 +31,10 @@ f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
 Submit the flag as follows:  
 `APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
+## Hint (cost: 5 pts)
+
+Did you give Gmaps a try?
+
 ## Solution
 
 Use Google Maps.
