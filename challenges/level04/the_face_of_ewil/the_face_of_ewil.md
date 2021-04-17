@@ -4,7 +4,7 @@ Category: Level04
 Tag:   
 Type: Automatic  
 Flag: `APT{2713e1f94bf398c3bcc971e7b8fb2b2f4d49820a2cc54ffac3697cab9e47b4b7}`  
-Points: 200
+Points: 199
 Requirements: follow me
 
 ## Message
