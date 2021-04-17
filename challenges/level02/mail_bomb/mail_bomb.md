@@ -53,7 +53,7 @@ As Edward works at APT Agency, try to filter emails by targeting "aptagency.com"
 
 In the 2nd email, Edward says he must be contacted by his other email address. Then Cat asks about it. In the last email, Edward says it's an address named after Marvin, the robot in The Hitchhiker's Guide to the Galaxy.
 
-Try to target "marvin" and you will get screenshot_00140.jpg. The latter is in Russian. Upload the file into [Yandex OCR translator](https://translate.yandex.com/ocr) and get:
+Try to target "marvin" and you will get screenshot_00140.jpg. The later is in Russian. Upload the file into [Yandex OCR translator](https://translate.yandex.com/ocr) and get:
 
 ```
 Good afternoon
