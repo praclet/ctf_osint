@@ -26,9 +26,12 @@ f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
 Submit the flag as follows:  
 `APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
-## Hint (cost: 10 pts)
+## Hint (cost: 5 pts)
 
-![dont-panic.png](dont-panic.png)
+One of the file in the archive contains a lot of ________ .
+Here's a charade to find the missing word:
+My first is something you buy to have access to festival.
+My second is a software from the office suite.
 
 ## Solution
 
