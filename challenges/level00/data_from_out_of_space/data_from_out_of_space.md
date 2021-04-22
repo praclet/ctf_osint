@@ -30,8 +30,8 @@ Submit the flag as follows:
 
 One of the file in the archive contains a lot of ________ .
 Here's a charade to find the missing word:
-My first is something you buy to have access to festival.
-My second is a software from the office suite.
+My first is something you buy access a festival.
+My second is part of Microsoft Office.
 
 ## Solution
 
