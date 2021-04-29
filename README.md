@@ -42,15 +42,10 @@ Basic knowledge of the internet, computers, search engines, and social networks.
 
 ### Contributors
 
-* Mathilde Boivin (mboivin)
-* Wil (wandre)
-* (avan-pra)
-* (therbret)
-
-### Beta-testers
-
-* Firstname Name (login)
-* ...
+* avan-pra
+* mboivin
+* therbret
+* wandre
 
 ## How to contribute
 
