@@ -29,7 +29,7 @@ Submit the flag as follows:
 
 ## Hint (cost: 25 pts)
 
-Have you ever heard of google ID ? Have you grabed it yet ?  
+Have you ever heard of google ID? Have you grabed it yet?  
 There are great writeups on how to exploit it, including one from a notorious twitter osint expert :D  
 
 ## Solution
