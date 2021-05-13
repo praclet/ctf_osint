@@ -139,3 +139,5 @@ dmypy.json
 # CTFd instance
 instance-config/CTFd/
 instance-config/local_backup/
+# Files are now too large to be pushed
+instance-config/backup/
