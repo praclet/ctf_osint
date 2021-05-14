@@ -14,13 +14,13 @@ So we did!
 We got the videosurveillance of the train station;  
 Someone strange caught our attention, we got him leaving a phone on the ground.  
 Minutes later, a tourist grabbed the phone, but got out of the field of view.  
-We contacted the tourist and he told us that he handed over the phone to the train station authorities.  
+We contacted the tourist and he told us that he handed over the phone to the train station staff.  
 It's probably now waiting for 'le Grand Architecte du Tout' or one of his contacts to get the phone.  
 APT42 needs you to get the phone before one of the bad guys do.  
 
-To solve this challenge, submit the SHA-256 hash of the hour:minute of when the phone got handed to the train station authorities.  
+To solve this challenge, submit the SHA-256 hash of the hour:minute of when the phone got handed to the train station staff.  
 
-Hour:minute of when the phone got handed to the authorities in Europe/Paris time.  
+Hour:minute of when the phone got handed to the staff in Europe/Paris time.  
 
 For example, if time is 23:59:
 ```
@@ -30,6 +30,9 @@ echo -n "23:59" | sha256sum
 
 Submit the flag as follows:  
 `APT{9d16aac260eaa948db79c7b5bffd8f61a7c0c06ea5e934d042f73374f294e2c3}`
+
+## Hint (40)
+Train station staff usually bring lost objects... to the lost objects.
 
 ## Solution
 If the phone is waiting for someone to grab it, it's in the train station, probably at the lost and found office.  
