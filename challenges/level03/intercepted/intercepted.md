@@ -4,7 +4,7 @@ Category: Level03
 Tag: evidence investigation  
 Type: Automatic  
 Flag: `APT{a99d9c2f2ebce18132bbbc18a37498f9083e5dda019d4072244f7a778aad7b05}`  
-Points: 100  
+Points: 115  
 Requirements: shoplifter_shoplifting_1 
 
 ## Message
@@ -29,7 +29,7 @@ Submit the flag as follows:
 
 ## Hint (Cost: 40 pts)
 Have you found the documentation yet? James Wang had some friend that knew a lot about apt42's custom kerberos tickets.  
-If yes, check the hint from the documentation :D.  
+If yes, check the hint in the middle of the documentation :D.  
 
 ## Solution
 Under one of James Wang's tweet a user posted a link to a documentation.  
