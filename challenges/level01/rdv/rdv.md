@@ -3,7 +3,7 @@
 Category: Level01  
 Tag: SOCMINT/GEOINT  
 Type: Automatic  
-Flag: `APT{33297c033fe14e8788ec59f27739665237ca5be65858404c4d628f6a8641e6dd}`  
+Flag: `APT{f277827ebc2a012aa1d958f86206a11f3355a83841201e2ec834f0a2842815f4}`  
 Points: 40
 Requirements: Follow the white rabbit
 
@@ -28,5 +28,5 @@ Connect the dots.
 
 ## Solution
 
-Catnity posted `///owns.doing.estate` on their twitter. Enter these 3 words in: https://what3words.com/, open it in Gmaps, zoom to see the Electrolab.
-Electrolab => 33297c033fe14e8788ec59f27739665237ca5be65858404c4d628f6a8641e6dd
+Catnity posted `///owns.doing.estate` on their twitter. Enter these 3 words in: https://what3words.com/, open it in Gmaps, see it's in Nanterre.
+Nanterre => f277827ebc2a012aa1d958f86206a11f3355a83841201e2ec834f0a2842815f4
