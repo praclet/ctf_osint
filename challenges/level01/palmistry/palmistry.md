@@ -24,6 +24,10 @@ echo -n 085_10_6.tif | sha256sum
 Submit the flag as follows:  
 `APT{2b927e1a9d5a2e22768a8e16f291cc5d051d0180e65cd439fe8cfda98119bac3}`
 
+## Hint (10)
+
+![img](neurotechnology.png)
+
 ## Solution
 
 Use a tool like verifinger to identify the right fingerprint.
