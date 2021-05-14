@@ -29,8 +29,8 @@ df198b8313a00d11c0551672477a5438b80a1518c62f97c57e2d853b0ce523c1
 Submit the flag as follows:  
 `APT{df198b8313a00d11c0551672477a5438b80a1518c62f97c57e2d853b0ce523c1}`
 
-## Hint (Cost: 20 pts)
-"it is what it is", but maybe there's a different term to name it, look for synonyms maybe ?  
+## Hint (Cost: 50 pts)
+A French prime minister left his function to become a mayor in a city near the one you seek.  
 
 ## Solution
 When looking at the video you will be able to see something which seems like a "ponton".  
