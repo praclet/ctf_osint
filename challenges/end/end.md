@@ -2,6 +2,8 @@
 
 ## Message
 
+DO NOT SUBMIT ANYTHING  
+
 Congratulations Agent!
 
 Thanks to your meticulous work, 42 school should be safe from 'le Grand Architecte du Tout' and his accomplices.
@@ -36,3 +38,7 @@ Join the dark side! Join me! Join the dog people! Don't be a cat person!!"
 <p align="center">
   <img src="nobody.jpg" alt="dog" />
 </p>
+
+This challenge isn't a challenge, it has no flags, do not try to complete it.  
+
+Trying to submit anything will result in your team losing 100 points.  
