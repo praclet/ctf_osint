@@ -9,23 +9,23 @@ Requirements: Palmistry
 
 ## Message
 
-*bip* \* You answer your phone instantly; You yell at the phone: "DID WE FOUND HIM ?"  
-"Agent, nice to hear you, sadly, only bad news from over here, the fingerprint you found... is only linked to one thing"  
-"What is it ?" you reply  
-"You won't like it, an e-mail, Edward Snowcrash's e-mail: edwardsnowcrash@gmail.com.
-Also, Edward went AWOL, is he a traitor? Who knows... As of now, I need you to find his last location. Some intel suggest he could be on holidays.
-We need to get answers from Edward about this potential betrayal. Good luck, agent."
+*bip* \* You answer your phone instantly. You yell at the phone: "DID WE FIND HIM?"  
+"Agent, nice to hear you. Sadly, only bad news from over here. The fingerprint you found... is only linked to one thing."  
+"What is it?" you reply  
+"You won't like it. An e-mail, Edward Snowcrash's e-mail: edwardsnowcrash@gmail.com.
+Also, Edward went AWOL, is he a traitor? Who knows... As of now, I need you to find his last location. Some intel suggested he could be on holidays.
+We need to get answers from Edward about this potential betrayal. Good luck, Agent."
 
-To solve this challenge, submit the SHA-256 hash of the location where Edward went on holidays.
+To solve this challenge, submit the SHA-256 hash of the location where Edward went on holidays. Pay attention to capital letters.
 
-For example, if My_Flag is the location:
+For example, if "My Flag" is the location:
 ```
-echo -n My_Flag | sha256sum
-f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+echo -n "My Flag" | sha256sum
+2b48dba8e6ffa9d6bccc9ec829b8a26a00bfca97736c4bf18181300be7f2df0d
 ```
 
 Submit the flag as follows:  
-`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
+`APT{2b48dba8e6ffa9d6bccc9ec829b8a26a00bfca97736c4bf18181300be7f2df0d}`
 
 ## Hint (cost: 25 pts)
 

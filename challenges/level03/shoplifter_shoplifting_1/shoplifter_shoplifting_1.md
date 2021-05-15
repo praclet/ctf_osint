@@ -9,14 +9,14 @@ Requirements: geoguessr2
 
 ## Message
 We went talking to the chairlift / ski tracker guys and they told us that someone came with a strange request recently.  
-If anybody from APT42 came in this place they had to tell them to check what happened in Strasbourg on February 16, 2021.  
+If anybody from APT agency came in this place, they had to tell them to check what happened in Strasbourg on February 16, 2021.  
 So we did!  
-We got the videosurveillance of the train station;  
-Someone strange caught our attention, we got him leaving a phone on the ground.  
+We got the videosurveillance of the train station.  
+Someone strange caught our attention. We saw him leaving a phone on the ground.  
 Minutes later, a tourist grabbed the phone, but got out of the field of view.  
 We contacted the tourist and he told us that he handed over the phone to the train station staff.  
 It's probably now waiting for 'le Grand Architecte du Tout' or one of his contacts to get the phone.  
-APT42 needs you to get the phone before one of the bad guys do.  
+The APT agency needs you to get the phone before one of the bad guys do.  
 
 To solve this challenge, submit the SHA-256 hash of the hour:minute of when the phone got handed to the train station staff.  
 

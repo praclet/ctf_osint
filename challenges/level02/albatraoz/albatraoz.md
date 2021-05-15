@@ -9,13 +9,13 @@ Requirements: You know Google?, R.D.V, Ok user
 
 ## Message
 
-Good job agent, Electrolab was indeed the place where wandre and Catnity used to meet up.  
-Too bad they didnt left the place untouched, all the equipment is gone.  
+Good job Agent! Electrolab in Nanterre was indeed the place where wandre and Catnity used to meet up.  
+Too bad they didn't left the place untouched, all the equipment is gone.  
 We managed to get our hands on a usb stick hidden inside Electrolab's post box.  
-That key contains a password protected archive, however, we haven' been able to bruteforce the password.  
-There seems to be another file can you work with, agent?
+That key contains a password protected archive. However, we haven't been able to bruteforce the password.  
+There seems to be another file can you work with, Agent?
 
-To solve this challenge, submit the SHA-256 hash of the archive_password. Pay attention to capitals.
+To solve this challenge, submit the SHA-256 hash of the archive_password. Pay attention to capital letters.
 
 For example, if My_Flag is the archive password:
 ```

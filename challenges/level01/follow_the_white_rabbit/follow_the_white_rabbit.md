@@ -19,14 +19,14 @@ Ah! And before I forgot! It seems wandre likes to drink Club Maté. We found a b
 
 To solve this challenge, submit the SHA-256 hash of the username as a flag (remove the `@`): `APT{username}`
 
-For example, if My_Flag is the flag:
+For example, if @my_flag is the username:
 ```
-echo -n My_Flag | sha256sum
-f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+echo -n my_flag | sha256sum
+4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca
 ```
 
 Submit the flag as follows:  
-`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
+`APT{4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca}`
 
 ## Solution
 

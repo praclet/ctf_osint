@@ -22,11 +22,11 @@ Find me and I promise I'll explain to you why I'm so angry towards 42."*
 
 In a hurry, you download the dataset and start to look for the headquarters' location.
 
-To solve this challenge, submit the SHA-256 hash of the location's name.
+To solve this challenge, submit the SHA-256 hash of the location's name. Pay attention to capital letters.
 
-For example, if My Flag is the location's name:
+For example, if "My Flag" is the location's name:
 ```
-echo -n My Flag | sha256sum
+echo -n "My Flag" | sha256sum
 2b48dba8e6ffa9d6bccc9ec829b8a26a00bfca97736c4bf18181300be7f2df0d
 ```
 

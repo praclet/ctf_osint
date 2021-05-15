@@ -11,7 +11,7 @@ Requirements: Follow the white rabbit
 
 You just received an email informing you that Edward Snowcrash was arrested. He was interrogated and confessed that 'le Grand Architecte du Tout' used to meet at some regular place with another accomplice. This accomplice is apparently fond of cats and a social engineering specialist. Can you find their *lieu de R.D.V*? We need to arrest both of them.
 
-To solve this challenge, submit the SHA-256 hash of the location (it has a name).
+To solve this challenge, submit the SHA-256 hash of the city where they meet. Pay attention to capital letters.
 
 For example, if My_Flag is the flag:
 ```

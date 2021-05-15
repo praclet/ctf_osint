@@ -21,14 +21,14 @@ Like an e-mail addressed to Edward for example?
 
 To solve this challenge, submit the SHA-256 hash of the flag.
 
-For example, if My_Flag is the flag:
+For example, if my flag is the flag:
 ```
-echo -n My_Flag | sha256sum
-f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+echo -n my flag | sha256sum
+083c331179bb1a61a803a320e4a6203b60b8845ec060e3a8368840eb6afad5b2
 ```
 
 Submit the flag as follows:  
-`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
+`APT{083c331179bb1a61a803a320e4a6203b60b8845ec060e3a8368840eb6afad5b2}`
 
 ## Solution
 

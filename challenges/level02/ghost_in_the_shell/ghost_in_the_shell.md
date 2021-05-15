@@ -9,12 +9,13 @@ Requirements: You know Google?, R.D.V, Ok user
 
 ## Message
 
-You're cellphone started ringing, you look at the screen, "UNKNOW NUMBER"...  
-After 5 seconds at watching the screen, you decide to aswer.  
-Is this the apt42 association?  
-42school here, we have a problem that might require OSINT skills, and you're the best one we found... yet.  
+Your cellphone started ringing. You look at the screen, "UNKNOWN NUMBER"...  
+After 5 seconds spent looking at the screen, you decide to answer.  
+Is this the APT agency?  
+
+"42school here. We have a problem that might require OSINT skills, and you're the best one we found... yet.  
 One of our servers has been hacked. 
-Please help us in investigating the logs, our whole network is in danger!"  
+Please help us in investigating the logs! Our whole network is in danger!"  
 
 To solve this challenge, submit the flag you will find along the challenge.
 

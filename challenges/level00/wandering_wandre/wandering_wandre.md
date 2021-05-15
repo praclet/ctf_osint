@@ -22,14 +22,14 @@ Can you find the whole message?"
 
 To solve this challenge, submit the SHA-256 hash of the fourth word of the message (5 characters long).
 
-For example, if My_Flag is the word:
+For example, if MyFlag42 is the word:
 ```
-echo -n My_Flag | sha256sum
-f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
+echo -n MyFlag42 | sha256sum
+95923b9abe28b5b9bb6924e8c5d79b8128ce9a52797cc252b8061454f85136ee
 ```
 
 Submit the flag as follows:  
-`APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
+`APT{95923b9abe28b5b9bb6924e8c5d79b8128ce9a52797cc252b8061454f85136ee}`
 
 ## Hint (cost: 5 pts)
 

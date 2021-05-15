@@ -14,7 +14,7 @@ It's from the APT agency, they have a problem. The agency claims that someone ma
 They have found a bunch of custom Kerberos-apt42 tickets in a trashcan near 42school. They are sure those tickets weren't issued by them.  
 However, it seems like the machine generating these tickets wasn't working properly, the agency claims only one of the tickets is valid.  
 Find out which one and sumbit it, maybe it will help to get the hacker's location in a way...  
-You then receive a sms which tells you that the documentation may be found during your other current task.  
+You then receive a text message which tells you that the documentation may be found during your other current task.  
 
 To solve this challenge, submit the SHA-256 hash of the valid ticket.  
 
@@ -28,7 +28,7 @@ Submit the flag as follows:
 `APT{33d07c717e1889c263cf86b84edd0a5aa3f12826a62da802ca3bf033d87b4f13}`
 
 ## Hint (Cost: 40 pts)
-Have you found the documentation yet? James Wang had some friend that knew a lot about apt42's custom kerberos tickets.  
+Have you found the documentation yet? James Wang had some friend that knew a lot about APT42's custom kerberos tickets.  
 If yes, check the hint in the middle of the documentation :D.  
 
 ## Solution

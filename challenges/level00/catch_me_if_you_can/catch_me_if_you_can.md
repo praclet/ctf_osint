@@ -48,3 +48,8 @@ Use Google Maps to enter Station F.
 <p align="center">
   <img src="gmap_view.png" alt="Gmap street" width="700" />
 </p>
+
+```
+echo -n microsoft | sha256sum
+9fbf261b62c1d7c00db73afb81dd97fdf20b3442e36e338cb9359b856a03bdc8
+```
