@@ -30,6 +30,19 @@ echo -n my flag | sha256sum
 Submit the flag as follows:  
 `APT{083c331179bb1a61a803a320e4a6203b60b8845ec060e3a8368840eb6afad5b2}`
 
+## Hint (Cost: 5 pts)
+Give me a O!
+
+## Hint (Cost: 5 pts)
+Give me a C!
+
+## Hint (Cost: 5 pts)
+And... Give me a R!
+
+## Hint (Cost: 15 pts)
+
+Also, take a look at Yandex translate. I heard you can upload pictures in it.
+
 ## Solution
 
 They get a zip file containing 200 email screenshots with many duplicated screenshots both in Russian and English.
