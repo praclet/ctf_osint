@@ -27,11 +27,7 @@ Submit the flag as follows:
 `APT{4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca}`
 
 ## Hint (cost: 5 pts)
-
-One of the file in the archive contains a lot of ________ .
-Here's a charade to find the missing word:
-My first is something you buy to access a festival.
-My second is part of Microsoft Office.
+`man file`
 
 ## Solution
 
