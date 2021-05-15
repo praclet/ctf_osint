@@ -16,7 +16,7 @@ Be careful if oppening this document though, the data it contains may harm you.
 To solve this challenge, submit the flag you will find along the challenge.
 
 ## Hint (Cost: 60 pts)
- - Verryhiden is a nice feature in excel. With BIFF and XLM Macro we can do lots of things...
+Verryhiden is a nice feature in excel. With BIFF and XLM Macro we can do lots of things...
 
 ## Solution
  
