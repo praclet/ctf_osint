@@ -2,14 +2,18 @@
 
 Put anything you need in this directory: drafts, pictures...
 
+## Flag format
 
-To solve this challenge, submit the flag as follows: `APT{sha256(info)}`  
-For exemple if My_Flag is the info:  
-echo -n My_Flag | sha256sum  
-f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
-APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}
+To solve this challenge, submit the SHA-256 hash of the flag.
 
-Flag format: `APT{flag_here}`
+For example, if my_flag is the flag:
+```
+echo -n my_flag | sha256sum
+4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca
+```
+
+Submit the flag as follows:  
+`APT{4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca}`
 
 ## Diagram
 

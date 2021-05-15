@@ -40,12 +40,19 @@ Basic knowledge of the internet, computers, search engines, and social networks.
 
 ## Acknowledgements
 
-### Contributors
+### Creators
 
 * avan-pra
 * mboivin
 * therbret
 * wandre
+
+### Beta-testers
+
+* agoomany
+* agranger (Congrats!! :1st_place_medal:)
+* macosta
+* nargouse
 
 ## How to contribute
 

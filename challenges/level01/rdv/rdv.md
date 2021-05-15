@@ -22,9 +22,9 @@ f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404
 Submit the flag as follows:  
 `APT{f8fa66e084281bb87f40b2f7048ceb93c28dd6e282f98f43a2cd4396245a7404}`
 
-## Hint (cost: 20 pts)
+## Hint (cost: 10 pts)
 
-Connect the dots.
+Did the cat really walked on the keyboard?
 
 ## Solution
 
