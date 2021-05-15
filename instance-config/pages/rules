@@ -1,0 +1,46 @@
+<p class="text-center" style="font-size:40px">
+	<b>Rules</b>
+</p>
+<br>
+<h3 class="text-center">Flag format</h3>
+<br>
+
+To solve challenges, unless indicated otherwise by the subject, you will submit flags on the platform in the following format: `APT{sha256sum(flag)}`
+<br>
+
+For example, if my_flag is the flag:
+
+```
+echo -n my_flag | sha256sum
+4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca
+```
+
+Submit the flag as follows: `APT{4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca}`
+
+Answer is case-sensitive and accented letters matter (for example, é, à).
+
+ps: be smart, if you already have a hash, do not hash it again :p
+
+<br>
+<h3 class="text-center">Code of conduct</h3>
+<br>
+<p class="text-center">
+<ul>
+  <li>Do not target the CTF infrastructure, other players or admins. <b>If you are found to fuzz/bruteforce/attack the platform, your team will be disqualified</b></li>
+  <li>If you leak flags, your team will be disqualified</li>
+  <li>The first part of the flag is "Réfléchissez"</li>
+  <li>Do not <b>attack/modify/comment social media accounts</b> created for the CTF</li>
+  <li>Do not <b>comment or follow social media accounts</b> created for the CTF</li>
+  <li>The second part of the flag (keep the commas) is ", par pitié, "</li>
+  <li>Be excellent to each other</li>
+  <li>Have fun!</li>
+
+<li>Do not <b>attack/modify/comment social media accounts</b> created for the CTF</li></ul>
+<h3 class="text-center">FAQ</h3>
+<p class="text-center">
+<ul>
+  <li>Teams are limited to a maximum of <b>5 members</b></li>
+  <li>You can unlock hints, but it will cost you some points</li>
+  <li>And the last part of the flag is "par Odin"</li>
+</ul>
+
