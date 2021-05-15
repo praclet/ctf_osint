@@ -29,6 +29,9 @@ Submit the flag as follows:
 ## Hint (cost: 5 pts)
 `man file`
 
+## Hint (cost: 5 pts)
+![img](cracking.jpg)
+
 ## Solution
 
 ```sh
