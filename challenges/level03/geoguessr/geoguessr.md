@@ -12,7 +12,7 @@ Requirements: macro demission, ghost in the shell, internet never forgets
 Wow Agent, that's a lot of info you managed to get us recently.  
 The secret behind the xls file, the ghostbin info with the help you provided to 42school, and last but not least: wandre's old blog.  
 Now it's time to step up and dive deep into wandre's life and to try getting as close as possible to him.  
-With the recent info you provided, we found out there was a video or picture hidden in one of the e-mail you parsed earlier.  
+With the recent info you provided, we found out there was a video hidden in one of the e-mail you parsed earlier.  
 It seems like something has been happening in this place.  
 First things first, we need you to find out where the video was taken.  
 
