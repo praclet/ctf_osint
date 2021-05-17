@@ -5,7 +5,7 @@ Tag: SOCMINT
 Type: Automatic  
 Flag: `APT{3ae38cdf2192d91de5e972a8988b0a5b74b576c81df46447256b716b8d61c31e}`  
 Points: 90
-Requirements: You know Google?, R.D.V, Ok user
+Requirements: Git me i'm famous
 
 ## Message
 
