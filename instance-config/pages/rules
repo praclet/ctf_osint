@@ -1,8 +1,8 @@
-<p class="text-center" style="font-size:40px">
-	<b>Rules</b>
-</p>
 <br>
-<h3 class="text-center">Flag format</h3>
+<p class="text-center" style="font-size:40px">
+  <b style="font-family: Hacked; font-size: 120%">Rules</b>
+</p>
+<h3 class="text-center" style="font-family: Hacked;">Flag format</h3>
 <br>
 
 To solve challenges, unless indicated otherwise by the subject, you will submit flags on the platform in the following format: `APT{sha256sum(flag)}`
@@ -22,7 +22,7 @@ Answer is case-sensitive and accented letters matter (for example, é, à).
 ps: be smart, if you already have a hash, do not hash it again :p
 
 <br>
-<h3 class="text-center">Code of conduct</h3>
+<h3 class="text-center" style="font-family: Hacked">Code of conduct</h3>
 <br>
 <p class="text-center">
 <ul>
@@ -36,11 +36,10 @@ ps: be smart, if you already have a hash, do not hash it again :p
   <li>Have fun!</li>
 
 <li>Do not <b>attack/modify/comment social media accounts</b> created for the CTF</li></ul>
-<h3 class="text-center">FAQ</h3>
+<h3 class="text-center" style="font-family: Hacked">FAQ</h3>
 <p class="text-center">
 <ul>
   <li>Teams are limited to a maximum of <b>5 members</b></li>
   <li>You can unlock hints, but it will cost you some points</li>
   <li>And the last part of the flag is "par Odin"</li>
 </ul>
-

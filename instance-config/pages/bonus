@@ -2,7 +2,7 @@
     <div class="col-md-6 offset-md-3">
     <br>
         <br>
-		<h3 class="text-center">More challenges!</h3>
+		<h3 class="text-center" style="font-family: Hacked; font-size: 250%">More challenges!</h3>
         <br>
         <p class="text-center">
             These bonuses will be manually awarded by the CTF admins:

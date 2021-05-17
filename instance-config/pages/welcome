@@ -1,7 +1,7 @@
 <p class="text-center" style="font-size:40px">
   <br>
-  <img src="/files/4d4b5e57e375faaea1d21fc575ccf8ea/apt42_logo.png" alt="APT42 logo" width="200" /><br>
-  <b>Welcome Agents!</b>
+  <img src="/files/965a600d9c941e62ba961b7b467d9e9a/logo-lp.png" alt="APT42 logo" width="130" /><br>
+  <b style="font-family: Hacked; font-size: 125%">Welcome Agents!</b>
 </p>
 <br>
 <p class="text-center">
@@ -11,7 +11,7 @@
 </p>
 <br>
 
-<h4 class="text-center">Project</h4>
+<h4 class="text-center" style="font-family: Hacked;">Project</h4>
 <p class="text-center">
   This project is a CTF created by <b>APT42</b>.
   <br><br>
@@ -20,18 +20,18 @@
   Learn OSINT basics by solving challenges that focus on GEOINT, IMINT, SOCMINT and investigative journalism techniques.
 </p>
 <br>
-<h4 class="text-center">Start time</h4>
+<h4 class="text-center" style="font-family: Hacked;">Start time</h4>
 <p class="text-center" style="font-size: 18px;">
   Saturday, May 29th 2021<br>8:42:00 am CEST (Paris)
 </p>
 <br>
-<h4 class="text-center">End time</h4>
+<h4 class="text-center" style="font-family: Hacked;">End time</h4>
 <p class="text-center" style="font-size: 18px;">
   Sunday, May 30th 2021<br>11:42:00 pm CEST (Paris)
 </p>
 <br>
 
-<h4 class="text-center">Acknowledgments</h4>
+<h4 class="text-center" style="font-family: Hacked;">Acknowledgments</h4>
 <p class="text-center">
   Creators:
   <br>
@@ -52,16 +52,19 @@
   - macosta
   <br>
   - nargouse
+  <br><br>
+  Font by David Libeau
 </p>
 <br>
 
-<h4 class="text-center">Special Thanks</h4>
+</p>
+<br>
+<h4 class="text-center" style="font-family: Hacked;">Special Thanks</h4>
 <p class="text-center">
   42Paris
 </p>
-<br>
 
-<h4 class="text-center">Need help?</h4>
+<h4 class="text-center" style="font-family: Hacked;">Need help?</h4>
 <p class="text-center">
   If you need to contact the organisation to raise an issue or any other reason, feel free to message the admins via APT42's Discord server.
 </p>
