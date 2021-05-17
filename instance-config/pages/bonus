@@ -2,17 +2,18 @@
     <div class="col-md-6 offset-md-3">
     <br>
         <br>
-        <h3 class="text-center">More challenges!</h3>
+		<h3 class="text-center">More challenges!</h3>
         <br>
         <p class="text-center">
             These bonuses will be manually awarded by the CTF admins:
             <ul>
-              <li><b>Too fast too furious:</b>  First team to solve a challenge (warm up not included) -> 10 points</li>
+              <li><b>Too fast, too furious:</b>  First team to solve a challenge (warm up not included) -> 10 points</li>
               <li><b>Speedrunner:</b>  First team to reach 200 points -> 15 points</li>
-              <li><b>Stalker:</b>  First team to solve all SOCMINT challenges -> 20 points</li>
-              <li><b>Globetrotter:</b>  First team to solve all GEOINT challenges -> 20 points</li>
-              <li><b>Lord of OSINT:</b>  First team to solve all challenges -> 100 points</li>
-              <li><b>Why?:</b>  Try to validate the "Mission accomplished!" challenge -> -100 points</li>
+              <li><b>Why ?:</b>  Try to validate the "Mission accomplished!" challenge -> -100 points</li>
+              <li><b>No help needed:</b>  Finish the ctf without any hints -> 30 points</li>
+              <li><b>Victory is for the lord:</b>  Have the least % of incorrect submission overall (must have at least 10 challenges validated) -> 20 points</li>
+              <li><b>Last but not least:</b>  Last team to validate a challenge -> 10 points</li>
+              <li><b>Is this a bug:</b>  Find the hidden flag in you know google -> 5 points</li>
             </ul>
         </p>
     </div>
