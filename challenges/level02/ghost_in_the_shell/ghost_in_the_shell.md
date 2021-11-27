@@ -3,7 +3,7 @@
 Category: Level02  
 Tag: Forensics  
 Type: Automatic  
-Flag: `APT{406ec36458a5d55675571e4e5d315dfb31567d797e5a85a2a3f1914e0e78c751}`  
+Flag: `APT{237b881e941eb634cd119c21f2de221d5533598e08485224c6edad6da100c06d}`  
 Points: 50
 Requirements: You know Google?, R.D.V, Ok user
 
@@ -23,4 +23,4 @@ To solve this challenge, submit the flag you will find along the challenge.
 
 > Read the log and find the ghostbin with a password as parameter.  
 > LoG_PoiSon1ng_1s_fUn  
-> https://ghostbin.co/paste/mchncuhj
+> https://pastebin.com/F19m3ihS
