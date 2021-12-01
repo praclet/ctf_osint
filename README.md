@@ -31,7 +31,10 @@ Have a running ctfd instance (see https://github.com/CTFd/CTFd)
 Go to Admin Panel > Config > Backup > import and import http://irc.ircgod.com/CTF%20OSINT.2021-12-01_14_50_18.zip  
 
 For a better experience, git clone https://github.com/apt-42/apt42_ctfd_themes and run:  
-`docker cp watchdogs <container>:<path_to_ctfd>/CTFd/themes` from the cloned directory.  
+`docker cp watchdogs <ctfd_container>:<path_to_ctfd>/CTFd/themes` from the cloned directory.  
+If you used the docker image to run the instance then you can do:  
+`docker cp watchdogs ctfd:/opt/CTFd/CTFd/themes`
+
 
 Then go to Admin Panel > Config > Theme and choose watchdogs as the the theme in the Theme section
 
