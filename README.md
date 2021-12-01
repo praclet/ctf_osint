@@ -24,7 +24,19 @@ It runs as a Capture the Flag format where students have to collect flags to val
 
 APT42 is a student organization of the Paris campus of the school 42. We aim to foster interest in information security and to provide a safe and inclusive space for everyone to learn and improve their cybersecurity skills.
 
-### Intended audience
+## Play
+
+Have a running ctfd instance (see https://github.com/CTFd/CTFd)  
+
+Go to Admin Panel > Config > Backup > import and import http://irc.ircgod.com/CTF%20OSINT.2021-12-01_14_50_18.zip  
+
+For a better experience, git clone https://github.com/apt-42/apt42_ctfd_themes and run:  
+`docker cp watchdogs <container>:<path_to_ctfd>/CTFd/themes` from the cloned directory.  
+
+Then go to Admin Panel > Config > Theme and choose watchdogs as the the theme in the Theme section
+
+
+## Intended audience
 
 Students who aim to work as:
 
@@ -34,7 +46,7 @@ Students who aim to work as:
 - Data journalists
 - Investigative journalists
 
-### Prerequisites
+## Prerequisites
 
 Basic knowledge of the internet, computers, search engines, and social networks.
 
