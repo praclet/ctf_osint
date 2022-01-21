@@ -27,16 +27,20 @@ APT42 is a student organization of the Paris campus of the school 42. We aim to 
 ## Play
 
 Have a running ctfd instance (see https://github.com/CTFd/CTFd)  
+(`docker run --name ctfd -p 8000:8000 -d ctfd/ctfd`)
 
-Go to Admin Panel > Config > Backup > import and import http://irc.ircgod.com/CTF%20OSINT.2021-12-01_14_50_18.zip  
+Then go to your newly created ctfd instance web page (its on port `8000`), create a new ctf (only `Administration` category is needed, otherwise, click on the `Next` button)
+
+Go to Admin Panel > Config > Backup > import and import https://github.com/apt-42/ctf_osint/releases/download/v1.0.0/CTF.OSINT.2021-12-01_14_50_18.zip  
 
 For a better experience, git clone https://github.com/apt-42/apt42_ctfd_themes and run:  
 `docker cp watchdogs <ctfd_container>:<path_to_ctfd>/CTFd/themes` from the cloned directory.  
-If you used the docker image to run the instance then you can do:  
-`docker cp watchdogs ctfd:/opt/CTFd/CTFd/themes`
+
+Else, if you have used the above command to run the instance, you can do:  
+`docker cp watchdogs ctfd:/opt/CTFd/CTFd/themes` from the cloned directory.  
 
 
-Then go to Admin Panel > Config > Theme and choose watchdogs as the the theme in the Theme section
+Then go to Admin Panel > Config > Theme and choose `watchdogs` as the the theme in the Theme section
 
 
 ## Intended audience
