@@ -40,7 +40,7 @@ Else, if you have used the above command to run the instance, you can do:
 `docker cp watchdogs ctfd:/opt/CTFd/CTFd/themes` from the cloned directory.  
 
 
-Then go to Admin Panel > Config > Theme and choose `watchdogs` as the the theme in the Theme section
+Then go to Admin Panel > Config > Theme and choose `watchdogs` as the the theme in the Theme section, click `Update` at the bottom of the page to save this setting.
 
 
 ## Intended audience
