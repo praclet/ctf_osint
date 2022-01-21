@@ -33,6 +33,8 @@ Then go to your newly created ctfd instance web page (its on port `8000`), creat
 
 Go to Admin Panel > Config > Backup > import and import https://github.com/apt-42/ctf_osint/releases/download/v1.0.0/CTF.OSINT.2021-12-01_14_50_18.zip  
 
+Admin account credentials are: `Admin`:`youshallnotpass`
+
 For a better experience, git clone https://github.com/apt-42/apt42_ctfd_themes and run:  
 `docker cp watchdogs <ctfd_container>:<path_to_ctfd>/CTFd/themes` from the cloned directory.  
 
