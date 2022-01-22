@@ -30,7 +30,7 @@ Submit the flag as follows:
 
 This is the Twitter account of Edward Snowcrash.
 
-![img](screen.jpg)
+![img](screen.png)
 
 ```
 echo aHR0cHM6Ly93d3cua2lja3Jlc3VtZS5jb20vY3YvUnlRWnYv | base64 -d
