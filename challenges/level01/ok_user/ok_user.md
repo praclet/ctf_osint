@@ -26,6 +26,12 @@ Submit the flag as follows:
 
 ## Solution
 
+![img](thread-start.png)
+![img](thread-full.png)
+
 Find the HTB account of adriana in a twitter thread. A Github account is linked on the HTB profile. It's easier to see it from the new HTB platform: `app.hackthebox.eu/profile/926`
 
-github.com/0x927 => 4a52132263f898dd28098e11f493cf182ee78bfa916122237df0646ccf8730ad
+```
+echo -n github.com/0x927 | sha256sum
+4a52132263f898dd28098e11f493cf182ee78bfa916122237df0646ccf8730ad
+```
