@@ -30,8 +30,20 @@ Submit the flag as follows:
 
 ## Solution
 
-The Linkedin page leads to Ed Snowcrash's second Twitter account. He commented under a post of adrianakarante2. There is a Club Maté bottle on adriana banner picture.
+![img](linkedin-page.png)
+![img](linkedin-header.png)
+
+The Linkedin page leads to Ed Snowcrash's second Twitter account.
+
+Take a loot at the tweets with replies (archived [here](https://web.archive.org/web/20220122132051/https://twitter.com/ed_snowcrash/with_replies)). He commented under a post of adrianakarante2:
+
+![img](screen.png)
+
+There is a Club Maté bottle on [adriana banner picture](https://web.archive.org/web/20220122132909/https://twitter.com/adrianakarante2).
 
 If it is not possible to see the public profile of Ed on Linkedin (no account and so forth), get the profile URL (https://www.linkedin.com/in/edsnowcrash/) and paste it in [Mobile Friendly Test](https://search.google.com/test/mobile-friendly), save the HTML content in a `file.html` and open it in your browser.
 
-adrianakarante2 => 8f5475c77714a350ff6180d81edb88ab187edf12d0ad20413f68858772551328
+```
+echo -n adrianakarante2 | sha256sum
+8f5475c77714a350ff6180d81edb88ab187edf12d0ad20413f68858772551328
+```

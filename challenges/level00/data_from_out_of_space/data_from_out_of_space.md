@@ -48,3 +48,5 @@ Submit the flag as follows:
 # APT{e850a491c61d9ae2bda26d8d05ae49394830fbd1e9bff54935cf9dee491a77a9}
 # We can get the same result with => https://emn178.github.io/online-tools/sha256.html "marvin_at_42'
 ```
+
+The account has been archived [here](https://web.archive.org/web/20220122130603/https://twitter.com/marvin_at_42).

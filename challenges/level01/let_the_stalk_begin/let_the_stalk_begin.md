@@ -28,7 +28,7 @@ Submit the flag as follows:
 
 ## Solution
 
-This is the Twitter account of Edward Snowcrash.
+This [account](https://web.archive.org/web/20220122130603/https://twitter.com/marvin_at_42) is the Twitter account of Edward Snowcrash.
 
 ![img](screen.png)
 
