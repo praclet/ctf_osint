@@ -1,6 +1,6 @@
-# WIP for challenges
+# Challenges
 
-Put anything you need in this directory: drafts, pictures...
+Descriptions, pictures, data, writeups and so forth.
 
 ## Flag format
 
@@ -14,7 +14,3 @@ echo -n my_flag | sha256sum
 
 Submit the flag as follows:  
 `APT{4d54517a024d0cefa786029a81203fab4f94a86054417fd1b10e77f0be3cf2ca}`
-
-## Diagram
-
-You can import [the diagram](../resources/ctf_story.png) in [diagrams.net](https://app.diagrams.net/) to update it.
