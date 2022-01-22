@@ -29,6 +29,16 @@ Submit the flag as follows:
 ## Solution
 
 This is the Twitter account of Edward Snowcrash.
+
+![img](screen.jpg)
+
+```
+echo aHR0cHM6Ly93d3cua2lja3Jlc3VtZS5jb20vY3YvUnlRWnYv | base64 -d
+https://www.kickresume.com/cv/RyQZv/
+```
+
+(The PDF file is in this directory.)
+
 ```
 echo -n snowcrash-edward-analyst | sha256sum
 7fb0ca4e7a07a2c911dd7446599955d871bfba73fdaa6be50188f2f834cf59ba
