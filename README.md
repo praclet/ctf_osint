@@ -52,7 +52,6 @@ Students who aim to work as:
 - OSINT analysts
 - Online investigators
 - Penetration testers
-- Data journalists
 - Investigative journalists
 
 ## Prerequisites
@@ -63,8 +62,8 @@ Basic knowledge of the internet, computers, search engines, and social networks.
 
 ### Creators
 
-* avan-pra
-* mboivin
+* [avan-pra](https://github.com/avan-pra)
+* [mboivin](https://gitlab.com/mboivin)
 * therbret
 * wandre
 
