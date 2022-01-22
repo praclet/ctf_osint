@@ -28,5 +28,19 @@ Did the cat really walked on the keyboard?
 
 ## Solution
 
+Catnity account is archived [here](https://web.archive.org/web/20220122133827/https://twitter.com/the_miaounster).
+
+![img](thread-start.png)
+![img](thread-full.png)
+
 Catnity posted `///owns.doing.estate` on their twitter. Enter these 3 words in: https://what3words.com/, open it in Gmaps, see it's in Nanterre.
-Nanterre => f277827ebc2a012aa1d958f86206a11f3355a83841201e2ec834f0a2842815f4
+
+There were also hints in likes and following:
+
+![img](likes.png)
+![img](following.png)
+
+```
+echo -n Nanterre | sha256sum
+f277827ebc2a012aa1d958f86206a11f3355a83841201e2ec834f0a2842815f4
+```
