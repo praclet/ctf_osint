@@ -1,23 +1,8 @@
 # Local CTFd instance
 
-```
-├── challenges					# WIP for challenges
-│   └── ...						# (put anything you need)
-│
-├── instance-config				# CTFd instance
-│   ├── assets					# Pictures for the README
-│   ├── backup					# All backup files for the instance
-│   │   └── CTF OSINT.*.zip
-│   ├── Makefile				# Makefile for the Docker container
-│   └── README.md
-│
-├── LICENSE
-└── README.md
-```
-
 ## Prerequisites
 
-- You cloned the `ctf_osint` repository.
+- Clone the `ctf_osint` repository.
 - Ensure that `instance-config` is your working directory.
 - Docker is installed and started.
 
